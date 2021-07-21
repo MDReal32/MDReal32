@@ -35,11 +35,13 @@ I use languages/frameworks:
   * [LinkedIn](https://www.linkedin.com/in/mdreal32/)
 
 <p>
+  <br />
   <img 
     height="180em"
     src="https://github-readme-stats.vercel.app/api?username=MDReal32&show_icons=true&locale=en&theme=onedark&include_all_commits=true&count_private=true"
     alt="My Stats"
   />
+  <br />
   <img
     height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=MDReal32&show_icons=true&locale=en&theme=onedark"
@@ -48,13 +50,15 @@ I use languages/frameworks:
 </p>
 
 <p>
-Project Details:
-<img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=MDReal32&repo=app-generator&theme=onedark"
-  alt="App Generator"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=MDReal32&repo=utils&theme=onedark"
-  alt="App Generator"
-/>
+  Project Details:
+  <br />
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=MDReal32&repo=app-generator&theme=onedark"
+    alt="App Generator"
+  />
+  <br />
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=MDReal32&repo=utils&theme=onedark"
+    alt="App Generator"
+  />
 </p>
