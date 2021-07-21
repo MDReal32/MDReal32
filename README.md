@@ -52,13 +52,17 @@ I use languages/frameworks:
 <p>
   Project Details:
   <br />
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=MDReal32&repo=app-generator&theme=onedark"
-    alt="App Generator"
-  />
+  <a href="https://github.com/MDReal32/app-generator">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=MDReal32&repo=app-generator&theme=onedark"
+      alt="App Generator"
+    />
+  </a>
   <br />
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=MDReal32&repo=utils&theme=onedark"
-    alt="App Generator"
-  />
+  <a href="https://github.com/MDReal32/utils">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=MDReal32&repo=utils&theme=onedark"
+      alt="Utils"
+    />
+  </a>
 </p>
