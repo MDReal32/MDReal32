@@ -1,25 +1,60 @@
-№## Howdy 👋
+## Hi EveryOne
 
-- 🔭 I’m currently help to improve [azresource](https://github.com/nurlan-aliyev/azresource)
-- 🔭 I’m currently working on Projects:
+My name is Veys. I'm a Software Developer.  
+I use languages/frameworks:
+- BackEnd
+  * NodeJS
+    * Express
+    * NestJS
+  * Python
+    * Django
+  * Java
+    * Spring
+    * Spring Boot
+    * MCForge
+- Frontend
+  * Frameworks
+    * ReactJS
+    * VueJS
+    * Angular (Learning)
+  * Bundlers
+    * Webpack (configure from zero)
+    * ViteJS (configure from zero)
+- Devops
+  * Docker
+  * Kubernetes (Learning)
+  * Jenkins (Improving)
+
+## I Work on
+
+- Improving [AzResource](https://github.com/nurlan-aliyev/azresource)
+- Self projects:
   * [App Generator](https://github.com/MDReal32/app-generator/)
   * [Utils Script](https://github.com/MDReal32/utils)
-- 🕸️ Every link that leads to me: [LinkedIn](https://www.linkedin.com/in/mdreal32/)
+- Links
+  * [LinkedIn](https://www.linkedin.com/in/mdreal32/)
 
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=MDReal32&hide=issues,contribs&show_icons=true&locale=en&theme=nord&include_all_commits=true&count_private=true" alt="n"/>
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MDReal32&show_icons=true&locale=en&layout=compact&langs_count=10&theme=nord" alt="MDReal32"/>
+<p>
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=MDReal32&show_icons=true&locale=en&theme=onedark&include_all_commits=true&count_private=true"
+    alt="My Stats"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=MDReal32&show_icons=true&locale=en&theme=onedark"
+    alt="MDReal32"
+  />
+</p>
 
-<!--
-**MDReal32/MDReal32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+Project Details:
+<img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=MDReal32&repo=app-generator&theme=onedark"
+  alt="App Generator"
+/>
+<img
+  src="https://github-readme-stats.vercel.app/api/pin/?username=MDReal32&repo=utils&theme=onedark"
+  alt="App Generator"
+/>
+</p>
