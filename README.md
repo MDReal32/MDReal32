@@ -1,4 +1,13 @@
-### Hi there 👋
+№## Howdy 👋
+
+- 🔭 I’m currently help to improve [azresource](https://github.com/nurlan-aliyev/azresource)
+- 🔭 I’m currently working on Projects:
+  * [App Generator](https://github.com/MDReal32/app-generator/)
+  * [Utils Script](https://github.com/MDReal32/utils)
+- 🕸️ Every link that leads to me: [LinkedIn](https://www.linkedin.com/in/mdreal32/)
+
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=MDReal32&hide=issues,contribs&show_icons=true&locale=en&theme=nord&include_all_commits=true&count_private=true" alt="n"/>
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MDReal32&show_icons=true&locale=en&layout=compact&langs_count=10&theme=nord" alt="MDReal32"/>
 
 <!--
 **MDReal32/MDReal32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
