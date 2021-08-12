@@ -16,7 +16,12 @@ ${backFrameworks.map(getUrlString).join("\n")}
 
 - OS & IDE & Tools
 
-${os.map(getUrlString).join("\n")}
+<p>
+${os
+  .map(getUrlString)
+  .map(e => `  ${e}`)
+  .join("\n")}
+</p>
 
 - CyberSecurity
 
