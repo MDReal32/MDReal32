@@ -38,7 +38,7 @@ My name is Veys. I'm a Software Developer. I know improving DevOps, Docker. Lear
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" style="display: inline-block" alt="VSCode" width="25" />
 </p>
 
-- CyberSecurity
+- Software Development and IT Operations (DevOps)
 
 ![Git](https://icongr.am/devicon/git-original.svg?size=25&color=aabbcc)
 <img src="https://raw.githubusercontent.com/MDReal32/MDReal32/master/assets/jenkins.svg" style="display: inline-block" alt="Jenkins" width="25" />
