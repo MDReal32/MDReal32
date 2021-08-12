@@ -1,6 +1,6 @@
 # Hi everyone <img src="https://raw.githubusercontent.com/MDReal32/MDReal32/master/assets/hi.gif" alt="Hello :)" width="25" />
 
-### My name is Veys. I'm a Software Developer.
+## My name is Veys. I'm a Software Developer.
 
 ---
 
@@ -54,7 +54,7 @@
 
 ---
 
-# Social Networks
+## Social Networks
 
 <a href="https://www.linkedin.com/in/mdreal32">
   <img src="https://raw.githubusercontent.com/MDReal32/MDReal32/master/assets/linkedin.svg" alt="LinkedIn" width="25" />
@@ -72,7 +72,7 @@
 
 ---
 
-# Work On
+## Work On
 
 - Improving [AzResource](https://github.com/nurlan-aliyev/azresource)
 - My Projects:
@@ -83,7 +83,7 @@
 
 ---
 
-# Stats
+## Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MDReal32&show_icons=true&locale=en&theme=onedark&include_all_commits=true&count_private=true)
 
