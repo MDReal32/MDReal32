@@ -18,7 +18,7 @@ My name is Veys. I'm a Software Developer. I know improving DevOps, Docker. Lear
 ![CSS3](https://icongr.am/devicon/css3-original.svg?size=25&color=aabbcc)
 ![SASS](https://icongr.am/devicon/sass-original.svg?size=25&color=aabbcc)
 ![Webpack](https://icongr.am/devicon/webpack-original.svg?size=25&color=aabbcc)
-<img src="https://vitejs.dev/logo.svg" alt="ViteJS" width="25" />
+<img src="https://vitejs.dev/logo.svg" style="display: inline" alt="ViteJS" width="25" />
 
 - BackEnd
 
@@ -29,19 +29,19 @@ My name is Veys. I'm a Software Developer. I know improving DevOps, Docker. Lear
 
 - OS & IDE & Tools
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/374px-Tux.svg.png" alt="Linux" width="25" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/1024px-Windows_logo_-_2012_%28dark_blue%29.svg.png" alt="Windows" width="25" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" alt="Webstorm" width="25" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="Pycharm" width="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/374px-Tux.svg.png" style="display: inline" alt="Linux" width="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/1024px-Windows_logo_-_2012_%28dark_blue%29.svg.png" style="display: inline" alt="Windows" width="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" style="display: inline" alt="Webstorm" width="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" style="display: inline" alt="Pycharm" width="25" />
 <img src="https://raw.githubusercontent.com/MDReal32/MDReal32/master/assets/postman.svg" alt="Postman" width="25" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" style="display: inline" alt="VSCode" width="25" />
 
 - CyberSecurity
 
 ![Git](https://icongr.am/devicon/git-original.svg?size=25&color=aabbcc)
 <img src="https://raw.githubusercontent.com/MDReal32/MDReal32/master/assets/jenkins.svg" alt="Jenkins" width="25" />
 ![Docker](https://icongr.am/devicon/docker-original.svg?size=25&color=aabbcc)
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" style="display: inline" alt="Kubernetes" width="25" />
 
 ---
 
