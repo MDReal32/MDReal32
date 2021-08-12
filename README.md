@@ -2,6 +2,8 @@
 
 My name is Veys. I'm a Software Developer.
 
+---
+
 ## Programming Languages
 
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=25&color=aabbcc)
