@@ -4,7 +4,8 @@
   "description": "My Profile README",
   "main": "readme-generator.js",
   "scripts": {
-    "start": "node readme-generator.js"
+    "start": "node readme-generator.js",
+    "dev": "nodemon readme-generator.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/MDReal32/MDReal32#readme",
   "devDependencies": {
+    "nodemon": "^2.0.12",
     "prettier": "^2.3.2"
   }
 }
