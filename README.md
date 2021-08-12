@@ -1,6 +1,6 @@
 # Hi everyone <img src="https://raw.githubusercontent.com/MDReal32/MDReal32/master/assets/hi.gif" alt="Hello :)" width="25" />
 
-## My name is Veys. I'm a Software Developer.
+My name is Veys. I'm a Software Developer.
 
 ## Programming Languages
 
