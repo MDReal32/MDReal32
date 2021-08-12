@@ -52,8 +52,6 @@ My name is Veys. I'm a Software Developer.
 ![Docker](https://icongr.am/devicon/docker-original.svg?size=25&color=aabbcc)
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" style="display: inline-block" alt="Kubernetes" width="25" />
 
----
-
 ## Social Networks
 
 <a href="https://www.linkedin.com/in/mdreal32">
