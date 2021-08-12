@@ -1,0 +1,23 @@
+{
+  "name": "@mdreal/mdreal32",
+  "private": true,
+  "description": "My Profile README",
+  "main": "readme-generator.js",
+  "scripts": {
+    "start": "node readme-generator.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MDReal32/MDReal32.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MDReal32/MDReal32/issues"
+  },
+  "homepage": "https://github.com/MDReal32/MDReal32#readme",
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
+}
