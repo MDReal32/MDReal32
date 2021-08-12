@@ -7,6 +7,8 @@ module.exports.README = `
 
 My name is Veys. I'm a Software Developer.
 
+---
+
 ${languages}
 
 ---
