@@ -23,7 +23,7 @@ ${os
   .join("\n")}
 </p>
 
-- Software Development and IT Operations (DevOps)
+- DevOps
 
 ${devOps.map(getUrlString).join("\n")}
 `.trim();
