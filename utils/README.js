@@ -11,8 +11,6 @@ My name is Veys. I'm a Software Developer.
 
 ${languages}
 
----
-
 ## Social Networks
 
 ${Object.entries(socialNetworks).map(socialNetwork).join("\n")}
