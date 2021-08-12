@@ -29,12 +29,14 @@ My name is Veys. I'm a Software Developer. I know improving DevOps, Docker. Lear
 
 - OS & IDE & Tools
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/374px-Tux.svg.png" style="display: inline-block" alt="Linux" width="25" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/1024px-Windows_logo_-_2012_%28dark_blue%29.svg.png" style="display: inline-block" alt="Windows" width="25" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" style="display: inline-block" alt="Webstorm" width="25" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" style="display: inline-block" alt="Pycharm" width="25" />
-<img src="https://raw.githubusercontent.com/MDReal32/MDReal32/master/assets/postman.svg" style="display: inline-block" alt="Postman" width="25" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" style="display: inline-block" alt="VSCode" width="25" />
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/374px-Tux.svg.png" style="display: inline-block" alt="Linux" width="25" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/1024px-Windows_logo_-_2012_%28dark_blue%29.svg.png" style="display: inline-block" alt="Windows" width="25" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" style="display: inline-block" alt="Webstorm" width="25" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" style="display: inline-block" alt="Pycharm" width="25" />
+  <img src="https://raw.githubusercontent.com/MDReal32/MDReal32/master/assets/postman.svg" style="display: inline-block" alt="Postman" width="25" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" style="display: inline-block" alt="VSCode" width="25" />
+</p>
 
 - CyberSecurity
 
