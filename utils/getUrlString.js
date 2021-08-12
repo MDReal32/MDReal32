@@ -1,6 +1,8 @@
 const { externalUrls } = require("./const");
 
-module.exports.getUrlString = name => {
+module.exports.getUrlString = (name, isHTML = false) => {
+  if (name === "__") return isHTML ? "<br />" : `\n`;
+
   if (Object.keys(externalUrls).includes(name))
     return `<img src="${externalUrls[name]}" style="display: inline-block" alt="${name}" width="25" />`;
 

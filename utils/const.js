@@ -1,13 +1,13 @@
 module.exports = {
-  programmingLanguages: ["JavaScript", "TypeScript", "Python"],
-  frontFrameworks: ["React", "VueJS", "HTML5", "CSS3", "SASS", "Webpack", "ViteJS"],
-  backFrameworks: ["NodeJS", "Sequelize", "Express", "Django"],
-  os: ["Linux", "Windows", "Webstorm", "Pycharm", "Postman", "VSCode"],
+  programmingLanguages: ["JavaScript", "TypeScript", "__", "Python", "Java"],
+  frontFrameworks: ["HTML5", "CSS3", "SASS", "__", "Webpack", "ViteJS", "__", "React", "VueJS"],
+  backFrameworks: ["NodeJS", "Express", "__", "Sequelize", "Django"],
+  os: ["Webstorm", "Pycharm", "VSCode", "__", "Linux", "Windows", "__", "Postman"],
   devOps: ["Git", "Jenkins", "Docker", "Kubernetes"],
   socialNetworks: {
     LinkedIn: `https://www.linkedin.com/in/mdreal32`,
-    Facebook: `https://fb.com/mdrealiyev`,
-    Instagram: `https://instagram.com/mdreal32`
+    Instagram: `https://instagram.com/mdreal32`,
+    Facebook: `https://fb.com/mdrealiyev`
   },
   externalUrls: {
     ViteJS: `https://vitejs.dev/logo.svg`,

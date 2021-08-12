@@ -2,28 +2,28 @@ const { programmingLanguages, frontFrameworks, backFrameworks, devOps, os } = re
 const { getUrlString } = require("./getUrlString");
 
 const languages = `
-- Programming Languages
+## Programming Languages
 
 ${programmingLanguages.map(getUrlString).join("\n")}
 
-- FrontEnd
+## FrontEnd
 
 ${frontFrameworks.map(getUrlString).join("\n")}
 
-- BackEnd
+## BackEnd
 
 ${backFrameworks.map(getUrlString).join("\n")}
 
-- OS & IDE & Tools
+## OS & IDE & Tools
 
 <p>
 ${os
-  .map(getUrlString)
+  .map(val => getUrlString(val, true))
   .map(e => `  ${e}`)
   .join("\n")}
 </p>
 
-- DevOps
+## DevOps
 
 ${devOps.map(getUrlString).join("\n")}
 `.trim();

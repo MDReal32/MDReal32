@@ -3,9 +3,9 @@ const { languages } = require("./readmeParts");
 const { socialNetworks } = require("./const");
 
 module.exports.README = `
-## Hi everyone <img src="https://raw.githubusercontent.com/MDReal32/MDReal32/master/assets/hi.gif" alt="Hello :)" width="25" />
+# Hi everyone <img src="https://raw.githubusercontent.com/MDReal32/MDReal32/master/assets/hi.gif" alt="Hello :)" width="25" />
 
-My name is Veys. I'm a Software Developer.
+### My name is Veys. I'm a Software Developer.
 
 ---
 
@@ -13,7 +13,7 @@ ${languages}
 
 ---
 
-## Social Networks
+# Social Networks
 
 ${Object.entries(socialNetworks).map(socialNetwork).join("\n")}
 
@@ -23,7 +23,7 @@ ${Object.entries(socialNetworks).map(socialNetwork).join("\n")}
 
 ---
 
-## Work On
+# Work On
 
 - Improving [AzResource](https://github.com/nurlan-aliyev/azresource)
 - My Projects:
@@ -34,7 +34,7 @@ ${Object.entries(socialNetworks).map(socialNetwork).join("\n")}
 
 ---
 
-## Stats
+# Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MDReal32&show_icons=true&locale=en&theme=onedark&include_all_commits=true&count_private=true)
 
