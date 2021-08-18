@@ -73,13 +73,15 @@ module.exports = {
     JIRA: `https://upload.wikimedia.org/wikipedia/commons/4/4a/Jira_Software%402x-blue.png`,
     TelegramBot: `https://core.telegram.org/file/811140327/1/zlN4goPTupk/9ff2f2f01c4bd1b013`,
     Bash: `https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg`,
-    RxJS: `https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png`
+    RxJS: `https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png`,
+    WebSocket: `http://websocket.org/img/websocketlogo-medium.png`
   },
   widths: {
     JIRA: 175,
     Slack: 80,
     MaterializeCSS: 40,
-    Bash: 50
+    Bash: 50,
+    WebSocket: 100
   },
   devIcon: name =>
     `https://icongr.am/devicon/${name.toLowerCase()}-original.svg?size=25&color=aabbcc`,
