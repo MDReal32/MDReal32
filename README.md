@@ -88,6 +88,7 @@ My name is Veys. I'm a Software Developer.
 
 <p>
   <img src="https://raw.githubusercontent.com/MDReal32/MDReal32/master/assets/jest.svg" style="display: inline-block" alt="Jest" width="25" title="Jest" />
+  <img src="https://icongr.am/devicon/django-original.svg?size=25&color=aabbcc" style="display: inline-block" alt="Django" width="25" title="Django" />
 </p>
 
 ## Additional Knowledges
