@@ -51,7 +51,7 @@ module.exports = {
     "__",
     "Jenkins"
   ],
-  testing: ["Jest"],
+  testing: ["Jest", "Django"],
   additionalKnowledge: ["TelegramBot@https://core.telegram.org/bots/api", "GraphQl", "WebSocket"],
   customAssets: [
     "MaterializeCSS",
