@@ -96,7 +96,7 @@ My name is Veys. I'm a Software Developer.
 <p>
   <a href="https://core.telegram.org/bots/api" title="TelegramBot"><img src="https://core.telegram.org/file/811140327/1/zlN4goPTupk/9ff2f2f01c4bd1b013" style="display: inline-block" alt="TelegramBot" width="25" title="TelegramBot" /></a>
   <img src="https://raw.githubusercontent.com/MDReal32/MDReal32/master/assets/graphql.svg" style="display: inline-block" alt="GraphQl" width="25" title="GraphQl" />
-  <img src="https://icongr.am/devicon/websocket-original.svg?size=25&color=aabbcc" style="display: inline-block" alt="WebSocket" width="25" title="WebSocket" />
+  <img src="http://websocket.org/img/websocketlogo-medium.png" style="display: inline-block" alt="WebSocket" width="100" title="WebSocket" />
 </p>
 
 ## Social Networks
