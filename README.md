@@ -43,7 +43,7 @@ My name is Veys. I'm a Software Developer.
   <br />
   <img src="https://raw.githubusercontent.com/MDReal32/MDReal32/master/assets/postman.svg" style="display: inline-block" alt="Postman" width="25" title="Postman" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Jira_Software%402x-blue.png" style="display: inline-block" alt="JIRA" width="175" title="JIRA" />
-  <img src="" style="display: inline-block" alt="Slack" width="25" title="Slack" />
+  <img src="https://raw.githubusercontent.com/MDReal32/MDReal32/master/assets/slack.svg" style="display: inline-block" alt="Slack" width="80" title="Slack" />
 </p>
 
 ## DevOps
