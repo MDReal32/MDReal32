@@ -6,51 +6,57 @@ My name is Veys. I'm a Software Developer.
 
 ## Programming Languages
 
-![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=25&color=aabbcc)
-![TypeScript](https://icongr.am/devicon/typescript-original.svg?size=25&color=aabbcc)
+![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=25&color=aabbcc "JavaScript")
+![TypeScript](https://icongr.am/devicon/typescript-original.svg?size=25&color=aabbcc "TypeScript")
 <br />
-![Python](https://icongr.am/devicon/python-original.svg?size=25&color=aabbcc)
-![Java](https://icongr.am/devicon/java-original.svg?size=25&color=aabbcc)
+![Python](https://icongr.am/devicon/python-original.svg?size=25&color=aabbcc "Python")
+![Java](https://icongr.am/devicon/java-original.svg?size=25&color=aabbcc "Java")
 
 ## FrontEnd
 
-![HTML5](https://icongr.am/devicon/html5-original.svg?size=25&color=aabbcc)
-![CSS3](https://icongr.am/devicon/css3-original.svg?size=25&color=aabbcc)
-![SASS](https://icongr.am/devicon/sass-original.svg?size=25&color=aabbcc)
+![HTML5](https://icongr.am/devicon/html5-original.svg?size=25&color=aabbcc "HTML5")
+![CSS3](https://icongr.am/devicon/css3-original.svg?size=25&color=aabbcc "CSS3")
+![SASS](https://icongr.am/devicon/sass-original.svg?size=25&color=aabbcc "SASS")
 <br />
-![Webpack](https://icongr.am/devicon/webpack-original.svg?size=25&color=aabbcc)
-<img src="https://vitejs.dev/logo.svg" style="display: inline-block" alt="ViteJS" width="25" />
+![Webpack](https://icongr.am/devicon/webpack-original.svg?size=25&color=aabbcc "Webpack")
+<img src="https://vitejs.dev/logo.svg" style="display: inline-block" alt="ViteJS" width="25" title="ViteJS" />
 <br />
-![React](https://icongr.am/devicon/react-original.svg?size=25&color=aabbcc)
-![VueJS](https://icongr.am/devicon/vuejs-original.svg?size=25&color=aabbcc)
+![React](https://icongr.am/devicon/react-original.svg?size=25&color=aabbcc "React")
+![VueJS](https://icongr.am/devicon/vuejs-original.svg?size=25&color=aabbcc "VueJS")
 
 ## BackEnd
 
-![NodeJS](https://icongr.am/devicon/nodejs-original.svg?size=25&color=aabbcc)
-![Express](https://icongr.am/devicon/express-original.svg?size=25&color=aabbcc)
+![NodeJS](https://icongr.am/devicon/nodejs-original.svg?size=25&color=aabbcc "NodeJS")
+![Express](https://icongr.am/devicon/express-original.svg?size=25&color=aabbcc "Express")
+![Sequelize](https://icongr.am/devicon/sequelize-original.svg?size=25&color=aabbcc "Sequelize")
 <br />
-![Sequelize](https://icongr.am/devicon/sequelize-original.svg?size=25&color=aabbcc)
-![Django](https://icongr.am/devicon/django-original.svg?size=25&color=aabbcc)
+![Django](https://icongr.am/devicon/django-original.svg?size=25&color=aabbcc "Django")
 
 ## OS & IDE & Tools
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" style="display: inline-block" alt="Webstorm" width="25" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" style="display: inline-block" alt="Pycharm" width="25" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" style="display: inline-block" alt="VSCode" width="25" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" style="display: inline-block" alt="Webstorm" width="25" title="Webstorm" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" style="display: inline-block" alt="Pycharm" width="25" title="Pycharm" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" style="display: inline-block" alt="VSCode" width="25" title="VSCode" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/374px-Tux.svg.png" style="display: inline-block" alt="Linux" width="25" title="Linux" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/1024px-Windows_logo_-_2012_%28dark_blue%29.svg.png" style="display: inline-block" alt="Windows" width="25" title="Windows" />
   <br />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/374px-Tux.svg.png" style="display: inline-block" alt="Linux" width="25" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/1024px-Windows_logo_-_2012_%28dark_blue%29.svg.png" style="display: inline-block" alt="Windows" width="25" />
-  <br />
-  <img src="https://raw.githubusercontent.com/MDReal32/MDReal32/master/assets/postman.svg" style="display: inline-block" alt="Postman" width="25" />
+  <img src="https://raw.githubusercontent.com/MDReal32/MDReal32/master/assets/postman.svg" style="display: inline-block" alt="Postman" width="25" title="Postman" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Jira_Software%402x-blue.png" style="display: inline-block" alt="JIRA" width="175" title="JIRA" />
+  <img src="" style="display: inline-block" alt="Slack" width="25" title="Slack" />
 </p>
 
 ## DevOps
 
-![Git](https://icongr.am/devicon/git-original.svg?size=25&color=aabbcc)
-<img src="https://raw.githubusercontent.com/MDReal32/MDReal32/master/assets/jenkins.svg" style="display: inline-block" alt="Jenkins" width="25" />
-![Docker](https://icongr.am/devicon/docker-original.svg?size=25&color=aabbcc)
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" style="display: inline-block" alt="Kubernetes" width="25" />
+![Git](https://icongr.am/devicon/git-original.svg?size=25&color=aabbcc "Git")
+![GitHub](https://icongr.am/devicon/github-original.svg?size=25&color=aabbcc "GitHub")
+![GitLab](https://icongr.am/devicon/gitlab-original.svg?size=25&color=aabbcc "GitLab")
+![BitBucket](https://icongr.am/devicon/bitbucket-original.svg?size=25&color=aabbcc "BitBucket")
+<br />
+![Docker](https://icongr.am/devicon/docker-original.svg?size=25&color=aabbcc "Docker")
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" style="display: inline-block" alt="Kubernetes" width="25" title="Kubernetes" />
+<br />
+<img src="https://raw.githubusercontent.com/MDReal32/MDReal32/master/assets/jenkins.svg" style="display: inline-block" alt="Jenkins" width="25" title="Jenkins" />
 
 ## Social Networks
 
