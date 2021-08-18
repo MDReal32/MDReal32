@@ -1,31 +1,87 @@
-const { programmingLanguages, frontFrameworks, backFrameworks, devOps, os } = require("./const");
+const {
+  programmingLanguages,
+  frontFrameworks,
+  backFrameworks,
+  devOps,
+  os,
+  additionalKnowledge,
+  databases,
+  testing
+} = require("./const");
 const { getUrlString } = require("./getUrlString");
 
 const languages = `
 ## Programming Languages
 
-${programmingLanguages.map(getUrlString).join("\n")}
+<p>
+${programmingLanguages
+  .map(getUrlString)
+  .map(e => `  ${e}`)
+  .join("\n")}
+</p>
 
 ## FrontEnd
 
-${frontFrameworks.map(getUrlString).join("\n")}
+<p>
+${frontFrameworks
+  .map(getUrlString)
+  .map(e => `  ${e}`)
+  .join("\n")}
+</p>
 
 ## BackEnd
 
-${backFrameworks.map(getUrlString).join("\n")}
+<p>
+${backFrameworks
+  .map(getUrlString)
+  .map(e => `  ${e}`)
+  .join("\n")}
+</p>
+
+## Databases
+
+<p>
+${databases
+  .map(getUrlString)
+  .map(e => `  ${e}`)
+  .join("\n")}
+</p>
 
 ## OS & IDE & Tools
 
 <p>
 ${os
-  .map(val => getUrlString(val, true))
+  .map(getUrlString)
   .map(e => `  ${e}`)
   .join("\n")}
 </p>
 
 ## DevOps
 
-${devOps.map(getUrlString).join("\n")}
+<p>
+${devOps
+  .map(getUrlString)
+  .map(e => `  ${e}`)
+  .join("\n")}
+</p>
+
+## Testing
+
+<p>
+${testing
+  .map(getUrlString)
+  .map(e => `  ${e}`)
+  .join("\n")}
+</p>
+
+## Additional Knowledges
+
+<p>
+${additionalKnowledge
+  .map(getUrlString)
+  .map(e => `  ${e}`)
+  .join("\n")}
+</p>
 `.trim();
 
 module.exports = { languages };

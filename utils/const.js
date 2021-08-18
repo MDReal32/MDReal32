@@ -1,9 +1,60 @@
 module.exports = {
-  programmingLanguages: ["JavaScript", "TypeScript", "__", "Python", "Java"],
-  frontFrameworks: ["HTML5", "CSS3", "SASS", "__", "Webpack", "ViteJS", "__", "React", "VueJS"],
-  backFrameworks: ["NodeJS", "Express", "Sequelize", "__", "Django"],
-  os: ["Webstorm", "Pycharm", "VSCode", "Linux", "Windows", "__", "Postman", "JIRA", "Slack"],
-  devOps: ["Git", "GitHub", "GitLab", "BitBucket", "__", "Docker", "Kubernetes", "__", "Jenkins"],
+  programmingLanguages: ["JavaScript", "TypeScript", "Python", "Java"],
+  frontFrameworks: [
+    "HTML5",
+    "CSS3",
+    "SASS",
+    "MaterializeCSS",
+    "__",
+    "Webpack",
+    "ViteJS",
+    "React",
+    "VueJS",
+    "__",
+    "NextJS",
+    "NuxtJS"
+  ],
+  backFrameworks: ["NodeJS", "Sequelize", "Electron", "__", "Express", "Django"],
+  databases: ["MongoDB", "MySQL"],
+  os: [
+    "Webstorm",
+    "Pycharm",
+    "VSCode",
+    "Linux",
+    "Windows",
+    "__",
+    "Postman",
+    "Figma",
+    "Slack",
+    "__",
+    "JIRA"
+  ],
+  devOps: [
+    "Git",
+    "GitHub",
+    "GitLab",
+    "BitBucket",
+    "__",
+    "Bash",
+    "Docker",
+    "Kubernetes",
+    "__",
+    "Jenkins"
+  ],
+  testing: ["Jest"],
+  additionalKnowledge: ["TelegramBot@https://core.telegram.org/bots/api", "GraphQl"],
+  customAssets: [
+    "MaterializeCSS",
+    "Jenkins",
+    "Postman",
+    "Slack",
+    "GraphQl",
+    "Bash",
+    "Jest",
+    "Figma",
+    "NextJS",
+    "NuxtJS"
+  ],
   socialNetworks: {
     LinkedIn: `https://www.linkedin.com/in/mdreal32`,
     Instagram: `https://instagram.com/mdreal32`,
@@ -17,10 +68,17 @@ module.exports = {
     Windows: `https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/1024px-Windows_logo_-_2012_%28dark_blue%29.svg.png`,
     Pycharm: `https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg`,
     Linux: `https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/374px-Tux.svg.png`,
-    JIRA: `https://upload.wikimedia.org/wikipedia/commons/4/4a/Jira_Software%402x-blue.png`
+    JIRA: `https://upload.wikimedia.org/wikipedia/commons/4/4a/Jira_Software%402x-blue.png`,
+    TelegramBot: `https://core.telegram.org/file/811140327/1/zlN4goPTupk/9ff2f2f01c4bd1b013`
   },
   widths: {
     JIRA: 175,
-    Slack: 80
-  }
+    Slack: 80,
+    MaterializeCSS: 40,
+    Bash: 50
+  },
+  devIcon: name =>
+    `https://icongr.am/devicon/${name.toLowerCase()}-original.svg?size=25&color=aabbcc`,
+  assetIcon: name =>
+    `https://raw.githubusercontent.com/MDReal32/MDReal32/master/assets/${name.toLowerCase()}.svg`
 };

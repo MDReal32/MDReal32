@@ -3,6 +3,8 @@ const { languages } = require("./readmeParts");
 const { socialNetworks } = require("./const");
 
 module.exports.README = `
+![Profile Views](https://komarev.com/ghpvc/?username=MDReal32&color=0e75b6&style=plastic)
+
 # Hi everyone <img src="https://raw.githubusercontent.com/MDReal32/MDReal32/master/assets/hi.gif" alt="Hello :)" width="25" />
 
 My name is Veys. I'm a Software Developer.
