@@ -40,18 +40,7 @@ module.exports = {
     "__",
     "JIRA"
   ],
-  devOps: [
-    "Git",
-    "GitHub",
-    "GitLab",
-    "BitBucket",
-    "__",
-    "Bash",
-    "Docker",
-    "Kubernetes",
-    "__",
-    "Jenkins"
-  ],
+  devOps: ["Git", "GitHub", "GitLab", "BitBucket", "__", "Docker", "Kubernetes", "__", "Jenkins"],
   testing: ["Jest", "Django"],
   additionalKnowledge: ["TelegramBot@https://core.telegram.org/bots/api", "GraphQl", "WebSocket"],
   customAssets: [
@@ -83,7 +72,8 @@ module.exports = {
     Linux: `https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/374px-Tux.svg.png`,
     JIRA: `https://upload.wikimedia.org/wikipedia/commons/4/4a/Jira_Software%402x-blue.png`,
     TelegramBot: `https://core.telegram.org/file/811140327/1/zlN4goPTupk/9ff2f2f01c4bd1b013`,
-    RxJS: `generated/images/marketing/home/Rx_Logo-512-512.png`
+    Bash: `https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg`,
+    RxJS: `https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png`
   },
   widths: {
     JIRA: 175,
