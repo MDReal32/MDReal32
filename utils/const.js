@@ -14,7 +14,7 @@ module.exports = {
     "NextJS",
     "NuxtJS"
   ],
-  backFrameworks: ["NodeJS", "Sequelize", "Electron", "__", "Express", "Django"],
+  backFrameworks: ["NodeJS", "Sequelize", "Electron", "__", "Express", "NestJS", "Django"],
   databases: ["MongoDB", "MySQL"],
   os: [
     "Webstorm",
@@ -53,7 +53,8 @@ module.exports = {
     "Jest",
     "Figma",
     "NextJS",
-    "NuxtJS"
+    "NuxtJS",
+    "NestJS"
   ],
   socialNetworks: {
     LinkedIn: `https://www.linkedin.com/in/mdreal32`,
