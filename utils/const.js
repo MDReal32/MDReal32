@@ -14,7 +14,17 @@ module.exports = {
     "NextJS",
     "NuxtJS"
   ],
-  backFrameworks: ["NodeJS", "Sequelize", "Electron", "__", "Express", "NestJS", "Django"],
+  backFrameworks: [
+    "NodeJS",
+    "Sequelize",
+    "Electron",
+    "__",
+    "Express",
+    "NestJS",
+    "Django",
+    "__",
+    "RxJS"
+  ],
   databases: ["MongoDB", "MySQL"],
   os: [
     "Webstorm",
@@ -42,7 +52,7 @@ module.exports = {
     "Jenkins"
   ],
   testing: ["Jest"],
-  additionalKnowledge: ["TelegramBot@https://core.telegram.org/bots/api", "GraphQl"],
+  additionalKnowledge: ["TelegramBot@https://core.telegram.org/bots/api", "GraphQl", "WebSocket"],
   customAssets: [
     "MaterializeCSS",
     "Jenkins",
@@ -70,7 +80,8 @@ module.exports = {
     Pycharm: `https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg`,
     Linux: `https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/374px-Tux.svg.png`,
     JIRA: `https://upload.wikimedia.org/wikipedia/commons/4/4a/Jira_Software%402x-blue.png`,
-    TelegramBot: `https://core.telegram.org/file/811140327/1/zlN4goPTupk/9ff2f2f01c4bd1b013`
+    TelegramBot: `https://core.telegram.org/file/811140327/1/zlN4goPTupk/9ff2f2f01c4bd1b013`,
+    RxJS: `generated/images/marketing/home/Rx_Logo-512-512.png`
   },
   widths: {
     JIRA: 175,
