@@ -43,7 +43,7 @@ My name is Veys. I'm a Software Developer.
   <img src="https://raw.githubusercontent.com/MDReal32/MDReal32/master/assets/nestjs.svg" style="display: inline-block" alt="NestJS" width="25" title="NestJS" />
   <img src="https://icongr.am/devicon/django-original.svg?size=25&color=aabbcc" style="display: inline-block" alt="Django" width="25" title="Django" />
   <br />
-  <img src="generated/images/marketing/home/Rx_Logo-512-512.png" style="display: inline-block" alt="RxJS" width="25" title="RxJS" />
+  <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" style="display: inline-block" alt="RxJS" width="25" title="RxJS" />
 </p>
 
 ## Databases
@@ -78,7 +78,6 @@ My name is Veys. I'm a Software Developer.
   <img src="https://icongr.am/devicon/gitlab-original.svg?size=25&color=aabbcc" style="display: inline-block" alt="GitLab" width="25" title="GitLab" />
   <img src="https://icongr.am/devicon/bitbucket-original.svg?size=25&color=aabbcc" style="display: inline-block" alt="BitBucket" width="25" title="BitBucket" />
   <br />
-  <img src="https://raw.githubusercontent.com/MDReal32/MDReal32/master/assets/bash.svg" style="display: inline-block" alt="Bash" width="50" title="Bash" />
   <img src="https://icongr.am/devicon/docker-original.svg?size=25&color=aabbcc" style="display: inline-block" alt="Docker" width="25" title="Docker" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" style="display: inline-block" alt="Kubernetes" width="25" title="Kubernetes" />
   <br />
