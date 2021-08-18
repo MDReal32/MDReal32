@@ -40,6 +40,7 @@ My name is Veys. I'm a Software Developer.
   <img src="https://icongr.am/devicon/electron-original.svg?size=25&color=aabbcc" style="display: inline-block" alt="Electron" width="25" title="Electron" />
   <br />
   <img src="https://icongr.am/devicon/express-original.svg?size=25&color=aabbcc" style="display: inline-block" alt="Express" width="25" title="Express" />
+  <img src="https://raw.githubusercontent.com/MDReal32/MDReal32/master/assets/nestjs.svg" style="display: inline-block" alt="NestJS" width="25" title="NestJS" />
   <img src="https://icongr.am/devicon/django-original.svg?size=25&color=aabbcc" style="display: inline-block" alt="Django" width="25" title="Django" />
 </p>
 
