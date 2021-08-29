@@ -76,6 +76,10 @@ module.exports = {
     RxJS: `https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png`,
     WebSocket: `http://websocket.org/img/websocketlogo-medium.png`
   },
+  projects: [
+    { name: "App Generator", repo: "app-generator" },
+    { name: "Util scripts", repo: "utils" }
+  ],
   widths: {
     JIRA: 175,
     Slack: 80,
