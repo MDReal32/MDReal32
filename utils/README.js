@@ -1,6 +1,7 @@
 const { socialNetwork } = require("./socialNetwork");
 const { languages } = require("./readmeParts");
-const { socialNetworks } = require("./const");
+const { socialNetworks, projects } = require("./const");
+const { project } = require("./project");
 
 module.exports.README = `
 ![Profile Views](https://komarev.com/ghpvc/?username=MDReal32&color=0e75b6&style=plastic)
@@ -15,7 +16,7 @@ ${languages}
 
 ## Social Networks
 
-${Object.entries(socialNetworks).map(socialNetwork).join("\n")}
+${Object.entries(socialNetworks).map(socialNetwork).join("\n\n")}
 
 ---
 
@@ -28,9 +29,7 @@ ${Object.entries(socialNetworks).map(socialNetwork).join("\n")}
 - Improving [AzResource](https://github.com/nurlan-aliyev/azresource)
 - My Projects:
 
-![App Generator](https://github-readme-stats.vercel.app/api/pin/?username=MDReal32&repo=app-generator&theme=onedark)
-
-![Util scripts](https://github-readme-stats.vercel.app/api/pin/?username=MDReal32&repo=utils&theme=onedark)
+${projects.map(project).join("\n\n")}
 
 ---
 
