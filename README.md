@@ -104,9 +104,11 @@ My name is Veys. I'm a Software Developer.
 <a href="https://www.linkedin.com/in/mdreal32">
   <img src="https://raw.githubusercontent.com/MDReal32/MDReal32/master/assets/linkedin.svg" alt="LinkedIn" width="25" />
 </a>
+
 <a href="https://instagram.com/mdreal32">
   <img src="https://raw.githubusercontent.com/MDReal32/MDReal32/master/assets/instagram.svg" alt="Instagram" width="25" />
 </a>
+
 <a href="https://fb.com/mdrealiyev">
   <img src="https://raw.githubusercontent.com/MDReal32/MDReal32/master/assets/facebook.svg" alt="Facebook" width="25" />
 </a>
@@ -122,9 +124,9 @@ My name is Veys. I'm a Software Developer.
 - Improving [AzResource](https://github.com/nurlan-aliyev/azresource)
 - My Projects:
 
-![App Generator](https://github-readme-stats.vercel.app/api/pin/?username=MDReal32&repo=app-generator&theme=onedark)
+[![App Generator](https://github-readme-stats.vercel.app/api/pin/?username=MDReal32&repo=app-generator&theme=onedark "App Generator")](https://github.com/MDReal32/app-generator)
 
-![Util scripts](https://github-readme-stats.vercel.app/api/pin/?username=MDReal32&repo=utils&theme=onedark)
+[![Util scripts](https://github-readme-stats.vercel.app/api/pin/?username=MDReal32&repo=utils&theme=onedark "Util scripts")](https://github.com/MDReal32/utils)
 
 ---
 
