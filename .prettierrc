@@ -15,8 +15,5 @@
   "tabWidth": 2,
   "trailingComma": "none",
   "useTabs": false,
-  "vueIndentScriptAndStyle": false,
-  "phpVersion": "7.4",
-  "trailingCommaPHP": false,
-  "braceStyle": "1tbs"
+  "vueIndentScriptAndStyle": false
 }
