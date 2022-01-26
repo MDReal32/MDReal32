@@ -31,7 +31,7 @@ jobs:
           GH_USERNAME: ${{ github.actor }}
 
       - name: Generate Config File
-        run: npm generate-json
+        run: npm run generate-json
         env:
           GH_ACCESS_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
           GH_USERNAME: ${{ github.actor }}
