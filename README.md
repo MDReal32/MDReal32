@@ -1,4 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MDReal32&color=0e75b6&style=plastic)
+[![Build README](https://github.com/MDReal32/MDReal32/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/MDReal32/MDReal32/actions/workflows/update-readme.yml)
 
 # Hi everyone <img src="https://raw.githubusercontent.com/MDReal32/MDReal32/master/assets/hi.gif" alt="Hello :)" width="25" />
 
@@ -127,6 +128,8 @@ My name is Veys. I'm a Software Developer.
 [![App Generator](https://github-readme-stats.vercel.app/api/pin/?username=MDReal32&repo=app-generator&theme=onedark "App Generator")](https://github.com/MDReal32/app-generator)
 
 [![Util scripts](https://github-readme-stats.vercel.app/api/pin/?username=MDReal32&repo=utils&theme=onedark "Util scripts")](https://github.com/MDReal32/utils)
+
+[![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=MDReal32&repo=mdreal32.github.io&theme=onedark "My Portfolio")](https://github.com/MDReal32/mdreal32.github.io)
 
 ---
 
