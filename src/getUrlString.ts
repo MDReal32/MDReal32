@@ -1,6 +1,6 @@
-const { externalUrls, widths, devIcon, assetIcon, customAssets } = require("./const");
+import { assetIcon, customAssets, devIcon, externalUrls, widths } from "./const";
 
-module.exports.getUrlString = name => {
+export const getUrlString = (name: string) => {
   if (name === "__") return "<br />";
 
   const width = widths[name] || 25;
@@ -13,5 +13,6 @@ module.exports.getUrlString = name => {
 
   const hrefStart = href ? `<a href="${href}" title="${baseName}">` : "";
   const hrefEnd = href ? `</a>` : "";
-  return `${hrefStart}<img src="${url}" style="display: inline-block" alt="${baseName}" width="${width}" title="${baseName}" />${hrefEnd}`;
+  const imageSource = `<img src="${url}" style="display: inline-block" alt="${baseName}" width="${width}" title="${baseName}" />`;
+  return `${hrefStart}${imageSource}${hrefEnd}`;
 };

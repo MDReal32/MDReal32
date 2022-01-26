@@ -1,9 +1,9 @@
-const { socialNetwork } = require("./socialNetwork");
-const { languages } = require("./readmeParts");
-const { socialNetworks, projects } = require("./const");
-const { project } = require("./project");
+import { socialNetwork } from "./socialNetwork";
+import { languages } from "./readmeParts";
+import { projects, socialNetworks } from "./const";
+import { project } from "./project";
 
-module.exports.README = `
+export const README = `
 ![Profile Views](https://komarev.com/ghpvc/?username=MDReal32&color=0e75b6&style=plastic)
 ![README Building](https://github.com/MDReal32/MDReal32/actions/workflows/update-readme.yml/badge.svg?branch=master)
 

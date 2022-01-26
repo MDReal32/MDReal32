@@ -1,16 +1,16 @@
-const {
-  programmingLanguages,
-  frontFrameworks,
-  backFrameworks,
-  devOps,
-  os,
+import {
   additionalKnowledge,
+  backFrameworks,
   databases,
+  devOps,
+  frontFrameworks,
+  os,
+  programmingLanguages,
   testing
-} = require("./const");
-const { getUrlString } = require("./getUrlString");
+} from "./const";
+import { getUrlString } from "./getUrlString";
 
-const languages = `
+export const languages = `
 ## Programming Languages
 
 <p>
@@ -83,5 +83,3 @@ ${additionalKnowledge
   .join("\n")}
 </p>
 `.trim();
-
-module.exports = { languages };
