@@ -5,7 +5,7 @@ const { project } = require("./project");
 
 module.exports.README = `
 ![Profile Views](https://komarev.com/ghpvc/?username=MDReal32&color=0e75b6&style=plastic)
-![README Building](https://github.com/MDReal32/MDReal32/actions/workflows/update-readme.yml/badge.svg?branch=master)
+![README Building](/badge.svg?branch=master)
 
 # Hi everyone <img src="https://raw.githubusercontent.com/MDReal32/MDReal32/master/assets/hi.gif" alt="Hello :)" width="25" />
 
