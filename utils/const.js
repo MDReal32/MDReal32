@@ -78,7 +78,8 @@ module.exports = {
   },
   projects: [
     { name: "App Generator", repo: "app-generator" },
-    { name: "Util scripts", repo: "utils" }
+    { name: "Util scripts", repo: "utils" },
+    { name: "My Portfolio", repo: "mdreal32.github.io" }
   ],
   widths: {
     JIRA: 175,
