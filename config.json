@@ -155,7 +155,7 @@
       },
       {
         "name": "Docker",
-        "description": "",
+        "description": "TypeORM, SequelizeJS",
         "percentage": 70,
         "color": "#E5CF1C",
         "group": "DevOps"
