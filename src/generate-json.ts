@@ -56,7 +56,7 @@ writeFileSync(resolve(process.cwd(), "config.json"), JSON.stringify({
       { name: "Rider", description: "", percentage: 70, color: "#E5CF1C", group: "IDE" },
       /* /IDEs */
       /* DevOps */
-      { name: "Docker", description: "TypeORM, SequelizeJS", percentage: 70, color: "#E5CF1C", group: "DevOps" },
+      { name: "Docker", description: "", percentage: 70, color: "#E5CF1C", group: "DevOps" },
       { name: "Jenkins", description: "", percentage: 70, color: "#E5CF1C", group: "DevOps" },
       { name: "Ansible", description: "", percentage: 60, color: "#E5CF1C", group: "DevOps" },
       /* /DevOps */
@@ -78,7 +78,7 @@ writeFileSync(resolve(process.cwd(), "config.json"), JSON.stringify({
       { name: "Teams", description: "", percentage: 70, color: "#E5CF1C", group: "Communication" },
       /* /Communication */
       /* Git */
-      { name: "Github", description: "TypeORM, SequelizeJS", percentage: 70, color: "#E5CF1C", group: "Git" },
+      { name: "Github", description: "", percentage: 70, color: "#E5CF1C", group: "Git" },
       { name: "Gitlab", description: "", percentage: 70, color: "#E5CF1C", group: "Git" },
       { name: "Bitbucket", description: "", percentage: 60, color: "#E5CF1C", group: "Git" }
       /* /Git */
