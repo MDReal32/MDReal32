@@ -16,7 +16,7 @@ writeFileSync(resolve(process.cwd(), "config.json"), JSON.stringify({
   description: "Software Developer",
   image: "https://github.com/MDReal32/MDReal32/raw/master/assets/me.jpg",
   from: { city: "Baku", country: "Azerbaijan" },
-  born: { day: 3, month: 8, year: 2000 },
+  birthday: { day: 3, month: 8, year: 2000 },
   skills: {
     General: [
       { name: "JavaScript", description: "", percentage: 72, color: "#11CF1C" },
@@ -113,4 +113,4 @@ writeFileSync(resolve(process.cwd(), "config.json"), JSON.stringify({
       location: { city: "Kharkiv", country: "Ukraine" }
     }
   ]
-}));
+}, null, 2));
