@@ -33,13 +33,13 @@ writeFileSync(resolve(process.cwd(), "config.json"), JSON.stringify({
       { name: "RxJS", description: "", percentage: 70, color: "#E5CF1C" },
       /* Rest API Frameworks */
       /* Rest API Frameworks */
-      { name: "ExpressJs", description: "", percentage: 70, color: "#E5CF1C", group: "Rest API Frameworks" },
-      { name: "NestJS", description: "", percentage: 70, color: "#E5CF1C", group: "Rest API Frameworks" },
-      { name: "Django", description: "", percentage: 70, color: "#E5CF1C", group: "Rest API Frameworks" },
+      { name: "ExpressJs", percentage: 70, color: "#E5CF1C", group: "Rest API Frameworks" },
+      { name: "NestJS", percentage: 70, color: "#E5CF1C", group: "Rest API Frameworks" },
+      { name: "Django", percentage: 70, color: "#E5CF1C", group: "Rest API Frameworks" },
       /* /Rest API Frameworks */
       /* SSR Frameworks */
-      { name: "NextJS", description: "", percentage: 70, color: "#E5CF1C", group: "SSR Frameworks" },
-      { name: "NuxtJS", description: "", percentage: 70, color: "#E5CF1C", group: "SSR Frameworks" },
+      { name: "NextJS", percentage: 70, color: "#E5CF1C", group: "SSR Frameworks" },
+      { name: "NuxtJS", percentage: 70, color: "#E5CF1C", group: "SSR Frameworks" },
       /* /SSR Frameworks */
       /* Orm */
       { name: "TypeORM", percentage: 70, color: "#E5CF1C", group: "ORM" },
@@ -48,39 +48,39 @@ writeFileSync(resolve(process.cwd(), "config.json"), JSON.stringify({
     ],
     Computer: [
       /* /IDE */
-      { name: "VSCode", description: "", percentage: 60, color: "#E5CF1C", group: "IDE" },
-      { name: "Webstorm", description: "", percentage: 70, color: "#E5CF1C", group: "IDE" },
-      { name: "PyCharm", description: "", percentage: 70, color: "#E5CF1C", group: "IDE" },
-      { name: "Idea", description: "", percentage: 70, color: "#E5CF1C", group: "IDE" },
-      { name: "DataGrip", description: "", percentage: 70, color: "#E5CF1C", group: "IDE" },
-      { name: "Rider", description: "", percentage: 70, color: "#E5CF1C", group: "IDE" },
+      { name: "VSCode", percentage: 60, color: "#E5CF1C", group: "IDE" },
+      { name: "Webstorm", percentage: 70, color: "#E5CF1C", group: "IDE" },
+      { name: "PyCharm", percentage: 70, color: "#E5CF1C", group: "IDE" },
+      { name: "Idea", percentage: 70, color: "#E5CF1C", group: "IDE" },
+      { name: "DataGrip", percentage: 70, color: "#E5CF1C", group: "IDE" },
+      { name: "Rider", percentage: 70, color: "#E5CF1C", group: "IDE" },
       /* /IDEs */
       /* DevOps */
-      { name: "Docker", description: "", percentage: 70, color: "#E5CF1C", group: "DevOps" },
-      { name: "Jenkins", description: "", percentage: 70, color: "#E5CF1C", group: "DevOps" },
-      { name: "Ansible", description: "", percentage: 60, color: "#E5CF1C", group: "DevOps" },
+      { name: "Docker", percentage: 70, color: "#E5CF1C", group: "DevOps" },
+      { name: "Jenkins", percentage: 70, color: "#E5CF1C", group: "DevOps" },
+      { name: "Ansible", percentage: 60, color: "#E5CF1C", group: "DevOps" },
       /* /DevOps */
       /* OS */
-      { name: "Windows", description: "", percentage: 70, color: "#E5CF1C", group: "OS" },
-      { name: "Linux", description: "", percentage: 70, color: "#E5CF1C", group: "OS" },
+      { name: "Windows", percentage: 70, color: "#E5CF1C", group: "OS" },
+      { name: "Linux", percentage: 70, color: "#E5CF1C", group: "OS" },
       /* /OS */
-      { name: "Postman", description: "", percentage: 70, color: "#E5CF1C" },
-      { name: "Figma", description: "", percentage: 70, color: "#E5CF1C" }
+      { name: "Postman", percentage: 70, color: "#E5CF1C" },
+      { name: "Figma", percentage: 70, color: "#E5CF1C" }
     ],
     Soft: [
       /* Agile */
-      { name: "JIRA", description: "", percentage: 72, color: "#E5CF1C", group: "Agile" },
-      { name: "Trello", description: "", percentage: 58, color: "#E5CF1C", group: "Agile" },
+      { name: "JIRA", percentage: 72, color: "#E5CF1C", group: "Agile" },
+      { name: "Trello", percentage: 58, color: "#E5CF1C", group: "Agile" },
       /* /Agile */
       /* Communication */
-      { name: "Slack", description: "", percentage: 70, color: "#E5CF1C", group: "Communication" },
-      { name: "Zoom", description: "", percentage: 70, color: "#E5CF1C", group: "Communication" },
-      { name: "Teams", description: "", percentage: 70, color: "#E5CF1C", group: "Communication" },
+      { name: "Slack", percentage: 70, color: "#E5CF1C", group: "Communication" },
+      { name: "Zoom", percentage: 70, color: "#E5CF1C", group: "Communication" },
+      { name: "Teams", percentage: 70, color: "#E5CF1C", group: "Communication" },
       /* /Communication */
       /* Git */
-      { name: "Github", description: "", percentage: 70, color: "#E5CF1C", group: "Git" },
-      { name: "Gitlab", description: "", percentage: 70, color: "#E5CF1C", group: "Git" },
-      { name: "Bitbucket", description: "", percentage: 60, color: "#E5CF1C", group: "Git" }
+      { name: "Github", percentage: 70, color: "#E5CF1C", group: "Git" },
+      { name: "Gitlab", percentage: 70, color: "#E5CF1C", group: "Git" },
+      { name: "Bitbucket", percentage: 60, color: "#E5CF1C", group: "Git" }
       /* /Git */
     ]
   },
@@ -96,7 +96,7 @@ writeFileSync(resolve(process.cwd(), "config.json"), JSON.stringify({
       name: "Master Degree",
       description: "",
       location: { name: "Azerbaijan Technically University", country: "Azerbaijan", city: "Baku" },
-      from: 2021
+      from: 2017
     }
   ],
   languages: [
@@ -132,5 +132,16 @@ writeFileSync(resolve(process.cwd(), "config.json"), JSON.stringify({
       to: { year: 2021, month: 12 },
       location: { city: "Kharkiv", country: "Ukraine" }
     }
-  ]
+  ],
+  groups: {
+    "Rest API Frameworks": "",
+    "SSR Frameworks": "",
+    "ORM": "",
+    "IDE": "",
+    "DevOps": "",
+    "OS": "",
+    "Agile": "",
+    "Communication": "",
+    "Git": ""
+  }
 }, null, 2));
