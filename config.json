@@ -64,35 +64,30 @@
       },
       {
         "name": "ExpressJs",
-        "description": "",
         "percentage": 70,
         "color": "#E5CF1C",
         "group": "Rest API Frameworks"
       },
       {
         "name": "NestJS",
-        "description": "",
         "percentage": 70,
         "color": "#E5CF1C",
         "group": "Rest API Frameworks"
       },
       {
         "name": "Django",
-        "description": "",
         "percentage": 70,
         "color": "#E5CF1C",
         "group": "Rest API Frameworks"
       },
       {
         "name": "NextJS",
-        "description": "",
         "percentage": 70,
         "color": "#E5CF1C",
         "group": "SSR Frameworks"
       },
       {
         "name": "NuxtJS",
-        "description": "",
         "percentage": 70,
         "color": "#E5CF1C",
         "group": "SSR Frameworks"
@@ -113,90 +108,77 @@
     "Computer": [
       {
         "name": "VSCode",
-        "description": "",
         "percentage": 60,
         "color": "#E5CF1C",
         "group": "IDE"
       },
       {
         "name": "Webstorm",
-        "description": "",
         "percentage": 70,
         "color": "#E5CF1C",
         "group": "IDE"
       },
       {
         "name": "PyCharm",
-        "description": "",
         "percentage": 70,
         "color": "#E5CF1C",
         "group": "IDE"
       },
       {
         "name": "Idea",
-        "description": "",
         "percentage": 70,
         "color": "#E5CF1C",
         "group": "IDE"
       },
       {
         "name": "DataGrip",
-        "description": "",
         "percentage": 70,
         "color": "#E5CF1C",
         "group": "IDE"
       },
       {
         "name": "Rider",
-        "description": "",
         "percentage": 70,
         "color": "#E5CF1C",
         "group": "IDE"
       },
       {
         "name": "Docker",
-        "description": "",
         "percentage": 70,
         "color": "#E5CF1C",
         "group": "DevOps"
       },
       {
         "name": "Jenkins",
-        "description": "",
         "percentage": 70,
         "color": "#E5CF1C",
         "group": "DevOps"
       },
       {
         "name": "Ansible",
-        "description": "",
         "percentage": 60,
         "color": "#E5CF1C",
         "group": "DevOps"
       },
       {
         "name": "Windows",
-        "description": "",
         "percentage": 70,
         "color": "#E5CF1C",
         "group": "OS"
       },
       {
         "name": "Linux",
-        "description": "",
         "percentage": 70,
         "color": "#E5CF1C",
         "group": "OS"
       },
       {
         "name": "Postman",
-        "description": "",
         "percentage": 70,
         "color": "#E5CF1C"
       },
       {
         "name": "Figma",
-        "description": "",
         "percentage": 70,
         "color": "#E5CF1C"
       }
@@ -204,56 +186,48 @@
     "Soft": [
       {
         "name": "JIRA",
-        "description": "",
         "percentage": 72,
         "color": "#E5CF1C",
         "group": "Agile"
       },
       {
         "name": "Trello",
-        "description": "",
         "percentage": 58,
         "color": "#E5CF1C",
         "group": "Agile"
       },
       {
         "name": "Slack",
-        "description": "",
         "percentage": 70,
         "color": "#E5CF1C",
         "group": "Communication"
       },
       {
         "name": "Zoom",
-        "description": "",
         "percentage": 70,
         "color": "#E5CF1C",
         "group": "Communication"
       },
       {
         "name": "Teams",
-        "description": "",
         "percentage": 70,
         "color": "#E5CF1C",
         "group": "Communication"
       },
       {
         "name": "Github",
-        "description": "",
         "percentage": 70,
         "color": "#E5CF1C",
         "group": "Git"
       },
       {
         "name": "Gitlab",
-        "description": "",
         "percentage": 70,
         "color": "#E5CF1C",
         "group": "Git"
       },
       {
         "name": "Bitbucket",
-        "description": "",
         "percentage": 60,
         "color": "#E5CF1C",
         "group": "Git"
@@ -280,7 +254,7 @@
         "country": "Azerbaijan",
         "city": "Baku"
       },
-      "from": 2021
+      "from": 2017
     }
   ],
   "languages": [
@@ -346,5 +320,16 @@
         "country": "Ukraine"
       }
     }
-  ]
+  ],
+  "groups": {
+    "Rest API Frameworks": "",
+    "SSR Frameworks": "",
+    "ORM": "",
+    "IDE": "",
+    "DevOps": "",
+    "OS": "",
+    "Agile": "",
+    "Communication": "",
+    "Git": ""
+  }
 }
