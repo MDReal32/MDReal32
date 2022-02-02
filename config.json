@@ -263,13 +263,23 @@
   "education": [
     {
       "name": "Bachelor Degree",
-      "description": "AzTU",
+      "description": "",
+      "location": {
+        "name": "Azerbaijan Technically University",
+        "country": "Azerbaijan",
+        "city": "Baku"
+      },
       "from": 2017,
       "to": 2021
     },
     {
       "name": "Master Degree",
-      "description": "AzTU",
+      "description": "",
+      "location": {
+        "name": "Azerbaijan Technically University",
+        "country": "Azerbaijan",
+        "city": "Baku"
+      },
       "from": 2017
     }
   ],
