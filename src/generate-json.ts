@@ -85,8 +85,19 @@ writeFileSync(resolve(process.cwd(), "config.json"), JSON.stringify({
     ]
   },
   education: [
-    { name: "Bachelor Degree", description: "AzTU", from: 2017, to: 2021 },
-    { name: "Master Degree", description: "AzTU", from: 2017 }
+    {
+      name: "Bachelor Degree",
+      description: "",
+      location: { name: "Azerbaijan Technically University", country: "Azerbaijan", city: "Baku" },
+      from: 2017,
+      to: 2021
+    },
+    {
+      name: "Master Degree",
+      description: "",
+      location: { name: "Azerbaijan Technically University", country: "Azerbaijan", city: "Baku" },
+      from: 2017
+    }
   ],
   languages: [
     { name: "Azerbaijani", percent: 100 },
@@ -95,8 +106,16 @@ writeFileSync(resolve(process.cwd(), "config.json"), JSON.stringify({
     { name: "Turkish", percent: 40 }
   ],
   socialLinks: [
-    { name: "Github", icon: "https://icongr.am/devicon/github-original.svg?size=25&color=aabbcc", url: "https://github.com/MDReal32" },
-    { name: "LinkedIn", icon: "https://icongr.am/devicon/linkedin-plain.svg?size=25&color=aabbcc", url: "https://www.linkedin.com/in/veysaliyev/" }
+    {
+      name: "Github",
+      icon: "https://icongr.am/devicon/github-original.svg?size=25&color=aabbcc",
+      url: "https://github.com/MDReal32"
+    },
+    {
+      name: "LinkedIn",
+      icon: "https://icongr.am/devicon/linkedin-plain.svg?size=25&color=aabbcc",
+      url: "https://www.linkedin.com/in/veysaliyev/"
+    }
   ],
   work: [
     {
