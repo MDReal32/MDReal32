@@ -9,14 +9,14 @@ import { resolve } from "path";
 // });
 // const xConstants = Object.fromEntries(xConstantsEntries);
 
-writeFileSync(resolve(process.cwd(), "config.json"), JSON.stringify({
-  name: "Veys",
-  surname: "Aliyev",
+writeFileSync(resolve(process.cwd(), "config.json"), JSON.stringify( {
+  name: "#name",
+  surname: "#surname",
   phoneNumber: "+99470 506 93 24",
-  description: "Software Developer",
+  description: "#description",
   email: "veysaliyev00@gmail.com",
   image: "https://github.com/MDReal32/MDReal32/raw/master/assets/me.jpg",
-  from: { city: "Baku", country: "Azerbaijan" },
+  from: { city: "#from.city", country: "#from.country" },
   birthday: { day: 3, month: 8, year: 2000 },
   skills: {
     General: [
@@ -143,5 +143,31 @@ writeFileSync(resolve(process.cwd(), "config.json"), JSON.stringify({
     "Agile": "",
     "Communication": "",
     "Git": ""
+  },
+  i18n: {
+    az: {
+      "name": "Veyis",
+      "surname": "Əliyev",
+      "description": "Proqram Tərtibatçı",
+      "from.city": "Bakı",
+      "from.country": "Azərbaycan",
+      "skills": "Bacarıqlar"
+    },
+    ru: {
+      "name": "Вейс",
+      "surname": "Алиев",
+      "description": "Разработчик программного обеспечения",
+      "from.city": "Баку",
+      "from.country": "Азербайджан",
+      "skills": "Навыки и умения"
+    },
+    en: {
+      "name": "Veyis",
+      "surname": "Aliyev",
+      "description": "Software Developer",
+      "from.city": "Baku",
+      "from.country": "Azerbaijan",
+      "skills": "Skills"
+    }
   }
 }, null, 2));
