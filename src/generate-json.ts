@@ -96,7 +96,7 @@ writeFileSync(resolve(process.cwd(), "config.json"), JSON.stringify({
       name: "Master Degree",
       description: "",
       location: { name: "Azerbaijan Technically University", country: "Azerbaijan", city: "Baku" },
-      from: 2017
+      from: 2021
     }
   ],
   languages: [
