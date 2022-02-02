@@ -294,12 +294,12 @@
   "socialLinks": [
     {
       "name": "Github",
-      "icon": "",
+      "icon": "https://icongr.am/devicon/github-original.svg?size=25&color=aabbcc",
       "url": "https://github.com/MDReal32"
     },
     {
       "name": "LinkedIn",
-      "icon": "",
+      "icon": "https://icongr.am/devicon/linkedin-original.svg?size=25&color=aabbcc",
       "url": "https://www.linkedin.com/in/veysaliyev/"
     }
   ],
