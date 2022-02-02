@@ -96,7 +96,7 @@ writeFileSync(resolve(process.cwd(), "config.json"), JSON.stringify({
   ],
   socialLinks: [
     { name: "Github", icon: "https://icongr.am/devicon/github-original.svg?size=25&color=aabbcc", url: "https://github.com/MDReal32" },
-    { name: "LinkedIn", icon: "https://icongr.am/devicon/linkedin-original.svg?size=25&color=aabbcc", url: "https://www.linkedin.com/in/veysaliyev/" }
+    { name: "LinkedIn", icon: "https://icongr.am/devicon/linkedin-plain.svg?size=25&color=aabbcc", url: "https://www.linkedin.com/in/veysaliyev/" }
   ],
   work: [
     {
