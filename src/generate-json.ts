@@ -185,13 +185,13 @@ const data: Data = {
       "from.city": "Bakı",
       "from.country": "Azərbaycan",
       "skills": "Bacarıqlar",
-      "js-description": "Proqramlaşdırma dili",
-      "ts-description": "Typed JavaScript",
+      "js-description": "A Programming Language",
+      "ts-description": "Tipləşdirilmiş JavaScript",
 
       //  Groups
-      "rest-frameworks-description": "A Library/Framework for building API",
-      "ssr-frameworks-description": "SSR Tətbiqlərini qurmaq üçün Framework",
-      "orm-description": "Verilənlər bazası/cədvəlləri manipulyasiya etmək üçün kitabxana"
+      "rest-frameworks-description": "API qurmaq üçün Kitabxana/Framework",
+      "ssr-frameworks-description": "A Framework for building SSR Applications",
+      "orm-description": "A Library for manipulate Database/Tables"
     },
     ru: {
       "name": "Вейс",
@@ -215,13 +215,13 @@ const data: Data = {
       "from.city": "Baku",
       "from.country": "Azerbaijan",
       "skills": "Skills",
-      "js-description": "A Programming Language",
-      "ts-description": "Tipləşdirilmiş JavaScript",
+      "js-description": "Proqramlaşdırma dili",
+      "ts-description": "Typed JavaScript",
 
       //  Groups
-      "rest-frameworks-description": "API qurmaq üçün Kitabxana/Framework",
-      "ssr-frameworks-description": "A Framework for building SSR Applications",
-      "orm-description": "A Library for manipulate Database/Tables"
+      "rest-frameworks-description": "A Library/Framework for building API",
+      "ssr-frameworks-description": "SSR Tətbiqlərini qurmaq üçün Framework",
+      "orm-description": "Verilənlər bazası/cədvəlləri manipulyasiya etmək üçün kitabxana"
     }
   }
 };
