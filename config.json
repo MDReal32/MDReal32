@@ -64,43 +64,36 @@
       },
       {
         "name": "ExpressJs",
-        "percentage": 70,
         "color": "#E5CF1C",
         "group": "Rest API Frameworks"
       },
       {
         "name": "NestJS",
-        "percentage": 70,
         "color": "#E5CF1C",
         "group": "Rest API Frameworks"
       },
       {
         "name": "Django",
-        "percentage": 70,
         "color": "#E5CF1C",
         "group": "Rest API Frameworks"
       },
       {
         "name": "NextJS",
-        "percentage": 70,
         "color": "#E5CF1C",
         "group": "SSR Frameworks"
       },
       {
         "name": "NuxtJS",
-        "percentage": 70,
         "color": "#E5CF1C",
         "group": "SSR Frameworks"
       },
       {
         "name": "TypeORM",
-        "percentage": 70,
         "color": "#E5CF1C",
         "group": "ORM"
       },
       {
         "name": "SequelizeJS",
-        "percentage": 70,
         "color": "#E5CF1C",
         "group": "ORM"
       }
@@ -108,67 +101,56 @@
     "Computer": [
       {
         "name": "VSCode",
-        "percentage": 60,
         "color": "#E5CF1C",
         "group": "IDE"
       },
       {
         "name": "Webstorm",
-        "percentage": 70,
         "color": "#E5CF1C",
         "group": "IDE"
       },
       {
         "name": "PyCharm",
-        "percentage": 70,
         "color": "#E5CF1C",
         "group": "IDE"
       },
       {
         "name": "Idea",
-        "percentage": 70,
         "color": "#E5CF1C",
         "group": "IDE"
       },
       {
         "name": "DataGrip",
-        "percentage": 70,
         "color": "#E5CF1C",
         "group": "IDE"
       },
       {
         "name": "Rider",
-        "percentage": 70,
         "color": "#E5CF1C",
         "group": "IDE"
       },
       {
         "name": "Docker",
-        "percentage": 70,
         "color": "#E5CF1C",
         "group": "DevOps"
       },
       {
         "name": "Jenkins",
-        "percentage": 70,
         "color": "#E5CF1C",
         "group": "DevOps"
       },
       {
         "name": "Ansible",
-        "percentage": 60,
         "color": "#E5CF1C",
         "group": "DevOps"
       },
       {
         "name": "Windows",
-        "percentage": 70,
         "color": "#E5CF1C",
         "group": "OS"
       },
       {
         "name": "Linux",
-        "percentage": 70,
         "color": "#E5CF1C",
         "group": "OS"
       },
@@ -186,49 +168,41 @@
     "Soft": [
       {
         "name": "JIRA",
-        "percentage": 72,
         "color": "#E5CF1C",
         "group": "Agile"
       },
       {
         "name": "Trello",
-        "percentage": 58,
         "color": "#E5CF1C",
         "group": "Agile"
       },
       {
         "name": "Slack",
-        "percentage": 70,
         "color": "#E5CF1C",
         "group": "Communication"
       },
       {
         "name": "Zoom",
-        "percentage": 70,
         "color": "#E5CF1C",
         "group": "Communication"
       },
       {
         "name": "Teams",
-        "percentage": 70,
         "color": "#E5CF1C",
         "group": "Communication"
       },
       {
         "name": "Github",
-        "percentage": 70,
         "color": "#E5CF1C",
         "group": "Git"
       },
       {
         "name": "Gitlab",
-        "percentage": 70,
         "color": "#E5CF1C",
         "group": "Git"
       },
       {
         "name": "Bitbucket",
-        "percentage": 60,
         "color": "#E5CF1C",
         "group": "Git"
       }
