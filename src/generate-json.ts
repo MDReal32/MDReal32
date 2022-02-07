@@ -59,54 +59,54 @@ const data: Data = {
       { name: "RxJS", description: "A Reactive Library", percentage: 70, color: "#E5CF1C" },
       /* Rest API Frameworks */
       /* Rest API Frameworks */
-      { name: "ExpressJs", percentage: 70, color: "#E5CF1C", group: "Rest API Frameworks" },
-      { name: "NestJS", percentage: 70, color: "#E5CF1C", group: "Rest API Frameworks" },
-      { name: "Django", percentage: 70, color: "#E5CF1C", group: "Rest API Frameworks" },
+      { name: "ExpressJs", color: "#E5CF1C", group: "Rest API Frameworks" },
+      { name: "NestJS", color: "#E5CF1C", group: "Rest API Frameworks" },
+      { name: "Django", color: "#E5CF1C", group: "Rest API Frameworks" },
       /* /Rest API Frameworks */
       /* SSR Frameworks */
-      { name: "NextJS", percentage: 70, color: "#E5CF1C", group: "SSR Frameworks" },
-      { name: "NuxtJS", percentage: 70, color: "#E5CF1C", group: "SSR Frameworks" },
+      { name: "NextJS", color: "#E5CF1C", group: "SSR Frameworks" },
+      { name: "NuxtJS", color: "#E5CF1C", group: "SSR Frameworks" },
       /* /SSR Frameworks */
       /* Orm */
-      { name: "TypeORM", percentage: 70, color: "#E5CF1C", group: "ORM" },
-      { name: "SequelizeJS", percentage: 70, color: "#E5CF1C", group: "ORM" }
+      { name: "TypeORM", color: "#E5CF1C", group: "ORM" },
+      { name: "SequelizeJS", color: "#E5CF1C", group: "ORM" }
       /* /Orm */
     ],
     Computer: [
       /* /IDE */
-      { name: "VSCode", percentage: 60, color: "#E5CF1C", group: "IDE" },
-      { name: "Webstorm", percentage: 70, color: "#E5CF1C", group: "IDE" },
-      { name: "PyCharm", percentage: 70, color: "#E5CF1C", group: "IDE" },
-      { name: "Idea", percentage: 70, color: "#E5CF1C", group: "IDE" },
-      { name: "DataGrip", percentage: 70, color: "#E5CF1C", group: "IDE" },
-      { name: "Rider", percentage: 70, color: "#E5CF1C", group: "IDE" },
+      { name: "VSCode", color: "#E5CF1C", group: "IDE" },
+      { name: "Webstorm", color: "#E5CF1C", group: "IDE" },
+      { name: "PyCharm", color: "#E5CF1C", group: "IDE" },
+      { name: "Idea", color: "#E5CF1C", group: "IDE" },
+      { name: "DataGrip", color: "#E5CF1C", group: "IDE" },
+      { name: "Rider", color: "#E5CF1C", group: "IDE" },
       /* /IDEs */
       /* DevOps */
-      { name: "Docker", percentage: 70, color: "#E5CF1C", group: "DevOps" },
-      { name: "Jenkins", percentage: 70, color: "#E5CF1C", group: "DevOps" },
-      { name: "Ansible", percentage: 60, color: "#E5CF1C", group: "DevOps" },
+      { name: "Docker", color: "#E5CF1C", group: "DevOps" },
+      { name: "Jenkins", color: "#E5CF1C", group: "DevOps" },
+      { name: "Ansible", color: "#E5CF1C", group: "DevOps" },
       /* /DevOps */
       /* OS */
-      { name: "Windows", percentage: 70, color: "#E5CF1C", group: "OS" },
-      { name: "Linux", percentage: 70, color: "#E5CF1C", group: "OS" },
+      { name: "Windows", color: "#E5CF1C", group: "OS" },
+      { name: "Linux", color: "#E5CF1C", group: "OS" },
       /* /OS */
       { name: "Postman", percentage: 70, color: "#E5CF1C" },
       { name: "Figma", percentage: 70, color: "#E5CF1C" }
     ],
     Soft: [
       /* Agile */
-      { name: "JIRA", percentage: 72, color: "#E5CF1C", group: "Agile" },
-      { name: "Trello", percentage: 58, color: "#E5CF1C", group: "Agile" },
+      { name: "JIRA", color: "#E5CF1C", group: "Agile" },
+      { name: "Trello", color: "#E5CF1C", group: "Agile" },
       /* /Agile */
       /* Communication */
-      { name: "Slack", percentage: 70, color: "#E5CF1C", group: "Communication" },
-      { name: "Zoom", percentage: 70, color: "#E5CF1C", group: "Communication" },
-      { name: "Teams", percentage: 70, color: "#E5CF1C", group: "Communication" },
+      { name: "Slack", color: "#E5CF1C", group: "Communication" },
+      { name: "Zoom", color: "#E5CF1C", group: "Communication" },
+      { name: "Teams", color: "#E5CF1C", group: "Communication" },
       /* /Communication */
       /* Git */
-      { name: "Github", percentage: 70, color: "#E5CF1C", group: "Git" },
-      { name: "Gitlab", percentage: 70, color: "#E5CF1C", group: "Git" },
-      { name: "Bitbucket", percentage: 60, color: "#E5CF1C", group: "Git" }
+      { name: "Github", color: "#E5CF1C", group: "Git" },
+      { name: "Gitlab", color: "#E5CF1C", group: "Git" },
+      { name: "Bitbucket", color: "#E5CF1C", group: "Git" }
       /* /Git */
     ]
   },
