@@ -1,11 +1,10 @@
 name: Configure Application
 
 on:
-  push:
-    branches:
-      - master
-  schedule:
-    - cron: "0 0 * * *"
+  workflow_run:
+    workflows: ["README Generating"]
+    types:
+      - completed
 
 jobs:
   build:

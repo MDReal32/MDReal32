@@ -1,4 +1,4 @@
-name: README Building
+name: README Generating
 
 on:
   push:
