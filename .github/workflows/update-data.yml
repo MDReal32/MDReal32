@@ -1,7 +1,6 @@
 name: Update Data.ts
 
-on:
-  repository_dispatch:
+on: [repository_dispatch]
 
 jobs:
   build:
