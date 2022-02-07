@@ -29,7 +29,7 @@ export interface Language {
   percent: number;
 }
 
-export interface Education extends Base {
+export interface Education extends Omit<Base, "description"> {
   location: EducationLocation;
   from: number;
   to?: number;
@@ -47,8 +47,8 @@ interface Work extends Base {
   location: Location;
 }
 
-type OverkilledSkill =
-  | (Omit<Skill, "description"> & { description?: never })
+export type OverkilledSkill =
+  | (Omit<Skill, "description" | "percentage"> & { description?: never } & { percentage?: never })
   | (Omit<Skill, "group"> & { group?: never });
 
 export interface Data {
