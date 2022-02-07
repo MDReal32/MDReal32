@@ -12,6 +12,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+          
+      - name: Update Data.ts
+        run: curl https://raw.githubusercontent.com/MDReal32/mdreal32.github.io/master/src/types/Data.ts -o src/Data.d.ts
 
       - name: Use NodeJs 14.x
         uses: actions/setup-node@v1
