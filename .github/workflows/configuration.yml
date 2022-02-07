@@ -12,6 +12,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - name: Update Data.ts
+        run: curl https://raw.githubusercontent.com/MDReal32/mdreal32.github.io/master/src/types/Data.ts -o src/Data.d.ts
+
       - name: Install dependencies
         run: npm install
 
