@@ -185,7 +185,7 @@ const data: Data = {
       "from.city": "Bakı",
       "from.country": "Azərbaycan",
       "skills": "Bacarıqlar",
-      "js-description": "A Programming Language",
+      "js-description": "Proqramlaşdırma dili",
       "ts-description": "Tipləşdirilmiş JavaScript",
 
       //  Groups
@@ -215,7 +215,7 @@ const data: Data = {
       "from.city": "Baku",
       "from.country": "Azerbaijan",
       "skills": "Skills",
-      "js-description": "Proqramlaşdırma dili",
+      "js-description": "A Programming Language",
       "ts-description": "Typed JavaScript",
 
       //  Groups
