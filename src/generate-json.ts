@@ -10,7 +10,7 @@ import { Data } from "./Data";
 // });
 // const xConstants = Object.fromEntries(xConstantsEntries);
 
-writeFileSync(resolve(process.cwd(), "config.json"), JSON.stringify( {
+const data: Data = {
   name: "#name",
   surname: "#surname",
   phoneNumber: "+99470 506 93 24",
@@ -21,17 +21,42 @@ writeFileSync(resolve(process.cwd(), "config.json"), JSON.stringify( {
   birthday: { day: 3, month: 8, year: 2000 },
   skills: {
     General: [
-      { name: "JavaScript", description: "", percentage: 72, color: "#11CF1C" },
-      { name: "TypeScript", description: "", percentage: 72, color: "#11CF1C" },
-      { name: "Python", description: "", percentage: 72, color: "#11CF1C" }
+      {
+        name: "JavaScript",
+        description: "#js-description",
+        percentage: 72,
+        color: "#11CF1C"
+      },
+      {
+        name: "TypeScript",
+        description: "#ts-description",
+        percentage: 72,
+        color: "#11CF1C"
+      },
+      { name: "Python", description: "A Programming Language", percentage: 72, color: "#11CF1C" }
     ],
     Frontend: [
-      { name: "ReactJS", description: "", percentage: 60, color: "#E22F1C" },
-      { name: "VueJS", description: "", percentage: 70, color: "#E5CF1C" }
+      {
+        name: "ReactJS",
+        description: "A JavaScript Frontend Framework",
+        percentage: 70,
+        color: "#E22F1C"
+      },
+      {
+        name: "VueJS",
+        description: "A JavaScript Frontend Framework",
+        percentage: 73,
+        color: "#E5CF1C"
+      }
     ],
     Backend: [
-      { name: "NodeJS", description: "", percentage: 60, color: "#E5CF1C" },
-      { name: "RxJS", description: "", percentage: 70, color: "#E5CF1C" },
+      {
+        name: "NodeJS",
+        description: "JavaScript but for Backend Usage",
+        percentage: 60,
+        color: "#E5CF1C"
+      },
+      { name: "RxJS", description: "A Reactive Library", percentage: 70, color: "#E5CF1C" },
       /* Rest API Frameworks */
       /* Rest API Frameworks */
       { name: "ExpressJs", percentage: 70, color: "#E5CF1C", group: "Rest API Frameworks" },
@@ -88,21 +113,27 @@ writeFileSync(resolve(process.cwd(), "config.json"), JSON.stringify( {
   education: [
     {
       name: "Bachelor Degree",
-      description: "",
-      location: { name: "Azerbaijan Technically University", country: "Azerbaijan", city: "Baku" },
+      location: {
+        name: "Azerbaijan Technically University",
+        country: "Azerbaijan",
+        city: "Baku"
+      },
       from: 2017,
       to: 2021
     },
     {
       name: "Master Degree",
-      description: "",
-      location: { name: "Azerbaijan Technically University", country: "Azerbaijan", city: "Baku" },
+      location: {
+        name: "Azerbaijan Technically University",
+        country: "Azerbaijan",
+        city: "Baku"
+      },
       from: 2021
     }
   ],
   languages: [
     { name: "Azerbaijani", percent: 100 },
-    { name: "Russian", percent: 60 },
+    { name: "Russian", percent: 70 },
     { name: "English", percent: 60 },
     { name: "Turkish", percent: 40 }
   ],
@@ -121,29 +152,30 @@ writeFileSync(resolve(process.cwd(), "config.json"), JSON.stringify( {
   work: [
     {
       name: "Crinfotask LLC",
-      description: "Automated Scoring and Decision System for bank and other financial institutions.",
+      description:
+        "Automated Scoring and Decision System for bank and other financial institutions",
       from: { year: 2020, month: 9 },
       to: { year: 2021, month: 10 },
       location: { city: "Baku", country: "Azerbaijan" }
     },
     {
       name: "MVP Engine",
-      description: "Tracking System.",
+      description: "Tracking System",
       from: { year: 2021, month: 10 },
       to: { year: 2021, month: 12 },
       location: { city: "Kharkiv", country: "Ukraine" }
     }
   ],
   groups: {
-    "Rest API Frameworks": "",
-    "SSR Frameworks": "",
-    "ORM": "",
-    "IDE": "",
-    "DevOps": "",
-    "OS": "",
-    "Agile": "",
-    "Communication": "",
-    "Git": ""
+    "Rest API Frameworks": "#rest-frameworks-description",
+    "SSR Frameworks": "#ssr-frameworks-description",
+    "ORM": "#orm-description",
+    "IDE": "Integrated Development Environment",
+    "DevOps": "Combination of cultural philosophies, practices, and tools",
+    "OS": "Operating Systems",
+    "Agile": "Project Management and Software Development Tools",
+    "Communication": "Apps for usage in Communication with co-workers",
+    "Git": "Version Control System"
   },
   i18n: {
     az: {
@@ -152,7 +184,14 @@ writeFileSync(resolve(process.cwd(), "config.json"), JSON.stringify( {
       "description": "Proqram Tərtibatçı",
       "from.city": "Bakı",
       "from.country": "Azərbaycan",
-      "skills": "Bacarıqlar"
+      "skills": "Bacarıqlar",
+      "js-description": "Proqramlaşdırma dili",
+      "ts-description": "Typed JavaScript",
+
+      //  Groups
+      "rest-frameworks-description": "A Library/Framework for building API",
+      "ssr-frameworks-description": "SSR Tətbiqlərini qurmaq üçün Framework",
+      "orm-description": "Verilənlər bazası/cədvəlləri manipulyasiya etmək üçün kitabxana"
     },
     ru: {
       "name": "Вейс",
@@ -160,7 +199,14 @@ writeFileSync(resolve(process.cwd(), "config.json"), JSON.stringify( {
       "description": "Разработчик программного обеспечения",
       "from.city": "Баку",
       "from.country": "Азербайджан",
-      "skills": "Навыки и умения"
+      "skills": "Навыки и умения",
+      "js-description": "Язык программирования",
+      "ts-description": "Типизированный JavaScript",
+
+      //  Groups
+      "rest-frameworks-description": "Библиотека/фреймворк для создания API",
+      "ssr-frameworks-description": "Фреймворк для создания приложений SSR",
+      "orm-description": "Библиотека для работы с базой данных/таблицами"
     },
     en: {
       "name": "Veyis",
@@ -168,7 +214,19 @@ writeFileSync(resolve(process.cwd(), "config.json"), JSON.stringify( {
       "description": "Software Developer",
       "from.city": "Baku",
       "from.country": "Azerbaijan",
-      "skills": "Skills"
+      "skills": "Skills",
+      "js-description": "A Programming Language",
+      "ts-description": "Tipləşdirilmiş JavaScript",
+
+      //  Groups
+      "rest-frameworks-description": "API qurmaq üçün Kitabxana/Framework",
+      "ssr-frameworks-description": "A Framework for building SSR Applications",
+      "orm-description": "A Library for manipulate Database/Tables"
     }
   }
-}, null, 2));
+};
+
+writeFileSync(resolve(process.cwd(), "config.json"), JSON.stringify(data, null, 2));
+
+// https://raw.githubusercontent.com/MDReal32/mdreal32.github.io/master/src/types/Data.ts
+// writeFileSync(resove)
