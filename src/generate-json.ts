@@ -227,6 +227,3 @@ const data: Data = {
 };
 
 writeFileSync(resolve(process.cwd(), "config.json"), JSON.stringify(data, null, 2));
-
-// https://raw.githubusercontent.com/MDReal32/mdreal32.github.io/master/src/types/Data.ts
-// writeFileSync(resove)
