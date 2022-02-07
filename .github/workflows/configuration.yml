@@ -1,4 +1,4 @@
-name: README Building
+name: Configure Application
 
 on:
   push:
