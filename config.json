@@ -255,7 +255,7 @@
       "url": "https://www.linkedin.com/in/veysaliyev/"
     }
   ],
-  "work": [
+  "job": [
     {
       "name": "Crinfotask LLC",
       "role": "Software Developer",
@@ -338,6 +338,12 @@
       "work.mvp.description": "İzləmə Sistemi",
       "work.from": "dan",
       "work.to": "a qədər",
+      "native": "doğma",
+      "advanced": "üstün",
+      "upper-intermediate": "orta səviyyədən yuxarı",
+      "intermediate": "orta səviyyə",
+      "pre-intermediate": "orta səviyyədən aşağı",
+      "beginner": "başlanğıc",
       "rest-frameworks-description": "API qurmaq üçün Kitabxana/Framework",
       "ssr-frameworks-description": "SSR Tətbiqlərini qurmaq üçün Framework",
       "orm-description": "Verilənlər bazası/cədvəlləri manipulyasiya etmək üçün kitabxana",
@@ -382,6 +388,12 @@
       "work.mvp.description": "Система слежения",
       "work.from": "от",
       "work.to": "к",
+      "native": "родной",
+      "advanced": "передовой",
+      "upper-intermediate": "выше среднего",
+      "intermediate": "средний",
+      "pre-intermediate": "ниже среднего",
+      "beginner": "новичок",
       "rest-frameworks-description": "Библиотека/фреймворк для создания API",
       "ssr-frameworks-description": "Фреймворк для создания приложений SSR",
       "orm-description": "Библиотека для работы с базой данных/таблицами",
@@ -426,6 +438,12 @@
       "work.mvp.description": "Tracking System",
       "work.from": "from",
       "work.to": "to",
+      "native": "native",
+      "advanced": "advanced",
+      "upper-intermediate": "upper intermediate",
+      "intermediate": "intermediate",
+      "pre-intermediate": "pre intermediate",
+      "beginner": "beginner",
       "rest-frameworks-description": "A Library/Framework for building API",
       "ssr-frameworks-description": "A Framework for building SSR Applications",
       "orm-description": "A Library for manipulate Database/Tables",
