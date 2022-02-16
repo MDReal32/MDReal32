@@ -116,7 +116,7 @@ const data: Data = {
       url: "https://www.linkedin.com/in/veysaliyev/"
     }
   ],
-  work: [
+  job: [
     {
       name: "Crinfotask LLC",
       role: "Software Developer",
@@ -194,6 +194,14 @@ const data: Data = {
       "work.from": "dan",
       "work.to": "a qədər",
 
+      // English Levels
+      "native": "doğma",
+      "advanced": "üstün",
+      "upper-intermediate": "orta səviyyədən yuxarı",
+      "intermediate": "orta səviyyə",
+      "pre-intermediate": "orta səviyyədən aşağı",
+      "beginner": "başlanğıc",
+
       // Groups
       "rest-frameworks-description": "API qurmaq üçün Kitabxana/Framework",
       "ssr-frameworks-description": "SSR Tətbiqlərini qurmaq üçün Framework",
@@ -252,6 +260,14 @@ const data: Data = {
       "work.from": "от",
       "work.to": "к",
 
+      // English Levels
+      "native": "родной",
+      "advanced": "передовой",
+      "upper-intermediate": "выше среднего",
+      "intermediate": "средний",
+      "pre-intermediate": "ниже среднего",
+      "beginner": "новичок",
+
       // Groups
       "rest-frameworks-description": "Библиотека/фреймворк для создания API",
       "ssr-frameworks-description": "Фреймворк для создания приложений SSR",
@@ -308,6 +324,14 @@ const data: Data = {
       "work.mvp.description": "Tracking System",
       "work.from": "from",
       "work.to": "to",
+
+      // English Levels
+      "native": "native",
+      "advanced": "advanced",
+      "upper-intermediate": "upper intermediate",
+      "intermediate": "intermediate",
+      "pre-intermediate": "pre intermediate",
+      "beginner": "beginner",
 
       // Groups
       "rest-frameworks-description": "A Library/Framework for building API",
