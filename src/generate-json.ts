@@ -17,46 +17,21 @@ const data: Data = {
   description: "#description",
   email: "veysaliyev00@gmail.com",
   image: "https://github.com/MDReal32/MDReal32/raw/master/assets/me.jpg",
-  from: { city: "#from.city", country: "#from.country" },
+  from: { city: "#city.baku", country: "#country.azerbaijan" },
   birthday: { day: 3, month: 8, year: 2000 },
   skills: {
     General: [
-      {
-        name: "JavaScript",
-        description: "#js-description",
-        percentage: 72,
-        color: "#11CF1C"
-      },
-      {
-        name: "TypeScript",
-        description: "#ts-description",
-        percentage: 72,
-        color: "#11CF1C"
-      },
-      { name: "Python", description: "A Programming Language", percentage: 72, color: "#11CF1C" }
+      { name: "JavaScript", color: "#11CF1C", group: "Programming Language" },
+      { name: "TypeScript", description: "#ts-description", percentage: 72, color: "#11CF1C" },
+      { name: "Python", color: "#11CF1C", group: "Programming Language" }
     ],
     Frontend: [
-      {
-        name: "ReactJS",
-        description: "A JavaScript Frontend Framework",
-        percentage: 70,
-        color: "#E22F1C"
-      },
-      {
-        name: "VueJS",
-        description: "A JavaScript Frontend Framework",
-        percentage: 73,
-        color: "#E5CF1C"
-      }
+      { name: "ReactJS", color: "#E22F1C", group: "Frontend Framework" },
+      { name: "VueJS", color: "#E5CF1C", group: "Frontend Framework" }
     ],
     Backend: [
-      {
-        name: "NodeJS",
-        description: "JavaScript but for Backend Usage",
-        percentage: 60,
-        color: "#E5CF1C"
-      },
-      { name: "RxJS", description: "A Reactive Library", percentage: 70, color: "#E5CF1C" },
+      { name: "NodeJS", description: "#node", percentage: 60, color: "#E5CF1C" },
+      { name: "RxJS", description: "#rxjs", percentage: 70, color: "#E5CF1C" },
       /* Rest API Frameworks */
       /* Rest API Frameworks */
       { name: "ExpressJs", color: "#E5CF1C", group: "Rest API Frameworks" },
@@ -112,30 +87,22 @@ const data: Data = {
   },
   education: [
     {
-      name: "Bachelor Degree",
-      location: {
-        name: "Azerbaijan Technically University",
-        country: "Azerbaijan",
-        city: "Baku"
-      },
+      name: "#education.bachelor",
+      location: { name: "#education.center", country: "#country.azerbaijan", city: "#city.baku" },
       from: 2017,
       to: 2021
     },
     {
-      name: "Master Degree",
-      location: {
-        name: "Azerbaijan Technically University",
-        country: "Azerbaijan",
-        city: "Baku"
-      },
+      name: "#education.master",
+      location: { name: "#education.center", country: "#country.azerbaijan", city: "#city.baku" },
       from: 2021
     }
   ],
   languages: [
-    { name: "Azerbaijani", percent: 100 },
-    { name: "Russian", percent: 70 },
+    { name: "Azərbaycan dili", percent: 100 },
+    { name: "Русский", percent: 70 },
     { name: "English", percent: 60 },
-    { name: "Turkish", percent: 40 }
+    { name: "Türk dili", percent: 40 }
   ],
   socialLinks: [
     {
@@ -152,76 +119,207 @@ const data: Data = {
   work: [
     {
       name: "Crinfotask LLC",
-      description:
-        "Automated Scoring and Decision System for bank and other financial institutions",
+      role: "Software Developer",
+      description: "#work.crinfotask.description",
       from: { year: 2020, month: 9 },
       to: { year: 2021, month: 10 },
-      location: { city: "Baku", country: "Azerbaijan" }
+      location: { city: "#city.baku", country: "#country.azerbaijan" }
     },
     {
       name: "MVP Engine",
-      description: "Tracking System",
+      role: "Fullstack Javascript Developer",
+      description: "#work.mvp.description",
       from: { year: 2021, month: 10 },
       to: { year: 2021, month: 12 },
-      location: { city: "Kharkiv", country: "Ukraine" }
+      location: { city: "#city.kharkiv", country: "#country.ukraine" }
     }
   ],
   groups: {
+    "Programming Language": "#pr-description",
+    "Frontend Framework": "#frontend-framework",
     "Rest API Frameworks": "#rest-frameworks-description",
     "SSR Frameworks": "#ssr-frameworks-description",
     "ORM": "#orm-description",
-    "IDE": "Integrated Development Environment",
-    "DevOps": "Combination of cultural philosophies, practices, and tools",
-    "OS": "Operating Systems",
-    "Agile": "Project Management and Software Development Tools",
-    "Communication": "Apps for usage in Communication with co-workers",
-    "Git": "Version Control System"
+    "IDE": "#ide",
+    "DevOps": "#devops",
+    "OS": "#os",
+    "Agile": "#agile",
+    "Communication": "#communication",
+    "Git": "#git"
   },
   i18n: {
     az: {
+      // Info
       "name": "Veyis",
       "surname": "Əliyev",
       "description": "Proqram Tərtibatçı",
-      "from.city": "Bakı",
-      "from.country": "Azərbaycan",
-      "skills": "Bacarıqlar",
-      "js-description": "Proqramlaşdırma dili",
-      "ts-description": "Tipləşdirilmiş JavaScript",
 
-      //  Groups
+      // Locations
+      "city.baku": "Bakı",
+      "country.azerbaijan": "Azərbaycan",
+      "city.kharkiv": "Xarkov",
+      "country.ukraine": "Ukrayna",
+
+      // Months
+      "january": "Yanvar",
+      "february": "Fevral",
+      "march": "Mart",
+      "april": "Aprel",
+      "may": "May",
+      "june": "İyun",
+      "july": "İyul",
+      "august": "Avqust",
+      "september": "Sentyabr",
+      "october": "Oktyabr",
+      "november": "Noyabr",
+      "december": "Dekabr",
+
+      // Skills
+      "skills": "Bacarıqlar",
+      "pr-description": "Proqramlaşdırma dili",
+      "ts-description": "Tipləşdirilmiş JavaScript",
+      "node": "JavaScript, lakin Backend üçün",
+      "rxjs": "Reaktiv Kitabxana",
+
+      // Education
+      "education.bachelor": "Bakalavr dərəcəsi",
+      "education.master": "Magistr dərəcəsi",
+      "education.center": "Azərbaycan Texniki Universiteti",
+      "education.since": "-dən indiyə kimi",
+
+      // Work
+      "work.crinfotask.description":
+        "Bank və digər maliyyə institutları üçün Avtomatlaşdırılmış Qiymətləndirmə və Qərar Sistemi",
+      "work.mvp.description": "İzləmə Sistemi",
+      "work.from": "dan",
+      "work.to": "a qədər",
+
+      // Groups
       "rest-frameworks-description": "API qurmaq üçün Kitabxana/Framework",
-      "ssr-frameworks-description": "A Framework for building SSR Applications",
-      "orm-description": "A Library for manipulate Database/Tables"
+      "ssr-frameworks-description": "SSR Tətbiqlərini qurmaq üçün Framework",
+      "orm-description": "Verilənlər bazası/cədvəlləri manipulyasiya etmək üçün kitabxana",
+      "frontend-framework": "JavaScript Frontend Framework",
+      "ide": "İnteqrasiya edilmiş İnkişaf Mühiti",
+      "devops": "Mədəni fəlsəfələrin, təcrübələrin və vasitələrin birləşməsi",
+      "os": "Əməliyyat sistemləri",
+      "agile": "Layihə İdarəetmə və Proqram İnkişafı Alətləri",
+      "communication": "Həmkarlarla ünsiyyətdə istifadə üçün proqramlar",
+      "git": "Versiyaya Nəzarət Sistemi"
     },
     ru: {
+      // Info
       "name": "Вейс",
       "surname": "Алиев",
       "description": "Разработчик программного обеспечения",
-      "from.city": "Баку",
-      "from.country": "Азербайджан",
-      "skills": "Навыки и умения",
-      "js-description": "Язык программирования",
-      "ts-description": "Типизированный JavaScript",
 
-      //  Groups
+      // Locations
+      "city.baku": "Баку",
+      "country.azerbaijan": "Азербайджан",
+      "city.kharkiv": "Харкив",
+      "country.ukraine": "Украина",
+
+      // Months
+      "january": "Январь",
+      "february": "Февраль",
+      "march": "Март",
+      "april": "Апрель",
+      "may": "Май",
+      "june": "Июнь",
+      "july": "Июль",
+      "august": "Август",
+      "september": "Сентябрь",
+      "october": "Октябрь",
+      "november": "Ноябрь",
+      "december": "Декабрь",
+
+      // Skills
+      "skills": "Навыки и умения",
+      "pr-description": "Язык программирования",
+      "ts-description": "Типизированный JavaScript",
+      "node": "JavaScript, но для бэкенда",
+      "rxjs": "Реактивная библиотека",
+
+      // Education
+      "education.bachelor": "Степень бакалавра",
+      "education.master": "Степень магистра",
+      "education.center": "Азербайджанский Технический Университет",
+      "education.since": "С",
+
+      // Work
+      "work.crinfotask.description":
+        "Автоматизированная система оценки и принятия решений для банков и других финансовых учреждений",
+      "work.mvp.description": "Система слежения",
+      "work.from": "от",
+      "work.to": "к",
+
+      // Groups
       "rest-frameworks-description": "Библиотека/фреймворк для создания API",
       "ssr-frameworks-description": "Фреймворк для создания приложений SSR",
-      "orm-description": "Библиотека для работы с базой данных/таблицами"
+      "orm-description": "Библиотека для работы с базой данных/таблицами",
+      "frontend-framework": "Фреймворк внешнего интерфейса JavaScript",
+      "ide": "Интегрированная среда разработки",
+      "devops": "Сочетание культурных философий, практик и инструментов",
+      "os": "Операционные системы",
+      "agile": "Инструменты управления проектами и разработки программного обеспечения",
+      "communication": "Приложения для использования в общении с коллегами",
+      "git": "Система контроля версий"
     },
     en: {
+      // Info
       "name": "Veyis",
       "surname": "Aliyev",
       "description": "Software Developer",
-      "from.city": "Baku",
-      "from.country": "Azerbaijan",
-      "skills": "Skills",
-      "js-description": "A Programming Language",
-      "ts-description": "Typed JavaScript",
 
-      //  Groups
+      // Months
+      "january": "January",
+      "february": "February",
+      "march": "March",
+      "april": "April",
+      "may": "May",
+      "june": "June",
+      "july": "July",
+      "august": "August",
+      "september": "September",
+      "october": "October",
+      "november": "November",
+      "december": "December",
+
+      // Locations
+      "city.baku": "Baku",
+      "country.azerbaijan": "Azerbaijan",
+      "city.kharkiv": "Kharkiv",
+      "country.ukraine": "Ukraine",
+
+      // Skills
+      "skills": "Skills",
+      "pr-description": "A Programming Language",
+      "ts-description": "Typed JavaScript",
+      "node": "JavaScript but for Backend",
+      "rxjs": "A Reactive Library",
+
+      // Education
+      "education.bachelor": "Bachelor Degree",
+      "education.master": "Master Degree",
+      "education.center": "Azerbaijan Technical University",
+      "education.since": "Since",
+
+      // Work
+      "work.crinfotask.description": "Automated Scoring and Decision System for bank and other financial institutions",
+      "work.mvp.description": "Tracking System",
+      "work.from": "from",
+      "work.to": "to",
+
+      // Groups
       "rest-frameworks-description": "A Library/Framework for building API",
-      "ssr-frameworks-description": "SSR Tətbiqlərini qurmaq üçün Framework",
-      "orm-description": "Verilənlər bazası/cədvəlləri manipulyasiya etmək üçün kitabxana"
+      "ssr-frameworks-description": "A Framework for building SSR Applications",
+      "orm-description": "A Library for manipulate Database/Tables",
+      "frontend-framework": "A JavaScript Frontend Framework",
+      "ide": "Integrated Development Environment",
+      "devops": "Combination of cultural philosophies, practices, and tools",
+      "os": "Operating Systems",
+      "agile": "Project Management and Software Development Tools",
+      "communication": "Apps for usage in Communication with co-workers",
+      "git": "Version Control System"
     }
   }
 };
