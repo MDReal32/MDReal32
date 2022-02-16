@@ -1,6 +1,10 @@
 name: Update Data.ts
 
-on: [repository_dispatch]
+on:
+  workflow_run:
+    workflows: ["README Generating"]
+    types:
+      - completed
 
 jobs:
   build:

@@ -2,7 +2,7 @@ name: Configure Application
 
 on:
   workflow_run:
-    workflows: ["README Generating"]
+    workflows: ["Update Data.ts"]
     types:
       - completed
 
