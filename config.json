@@ -43,6 +43,51 @@
         "name": "VueJS",
         "color": "#E5CF1C",
         "group": "Frontend Framework"
+      },
+      {
+        "name": "Redux",
+        "color": "#E22F1C",
+        "group": "Framework State Managements"
+      },
+      {
+        "name": "Recoil",
+        "color": "#E22F1C",
+        "group": "Framework State Managements"
+      },
+      {
+        "name": "Vuex",
+        "color": "#E5CF1C",
+        "group": "Framework State Managements"
+      },
+      {
+        "name": "Pinia",
+        "color": "#E5CF1C",
+        "group": "Framework State Managements"
+      },
+      {
+        "name": "CSS",
+        "color": "#E5CF1C",
+        "group": "Frontend CSS"
+      },
+      {
+        "name": "SCSS",
+        "color": "#E5CF1C",
+        "group": "Frontend CSS"
+      },
+      {
+        "name": "SASS",
+        "color": "#E5CF1C",
+        "group": "Frontend CSS"
+      },
+      {
+        "name": "Bootstrap",
+        "color": "#E5CF1C",
+        "group": "Frontend CSS Frameworks"
+      },
+      {
+        "name": "Materialize CSS",
+        "color": "#E5CF1C",
+        "group": "Frontend CSS Frameworks"
       }
     ],
     "Backend": [
@@ -204,6 +249,10 @@
       }
     ]
   },
+  "skillTypes": {
+    "Frontend": true,
+    "Backend": true
+  },
   "education": [
     {
       "name": "#education.bachelor",
@@ -294,6 +343,9 @@
   "groups": {
     "Programming Language": "#pr-description",
     "Frontend Framework": "#frontend-framework",
+    "Framework State Managements": "#frontend-framework-state-managements",
+    "Frontend CSS": "#frontend-css",
+    "Frontend CSS Frameworks": "#frontend-css-frameworks",
     "Rest API Frameworks": "#rest-frameworks-description",
     "SSR Frameworks": "#ssr-frameworks-description",
     "ORM": "#orm-description",
@@ -305,155 +357,260 @@
     "Git": "#git"
   },
   "i18n": {
-    "az": {
-      "name": "Veyis",
-      "surname": "Əliyev",
-      "description": "Proqram Tərtibatçı",
-      "city.baku": "Bakı",
-      "country.azerbaijan": "Azərbaycan",
-      "city.kharkiv": "Xarkov",
-      "country.ukraine": "Ukrayna",
-      "january": "Yanvar",
-      "february": "Fevral",
-      "march": "Mart",
-      "april": "Aprel",
-      "may": "May",
-      "june": "İyun",
-      "july": "İyul",
-      "august": "Avqust",
-      "september": "Sentyabr",
-      "october": "Oktyabr",
-      "november": "Noyabr",
-      "december": "Dekabr",
-      "skills": "Bacarıqlar",
-      "pr-description": "Proqramlaşdırma dili",
-      "ts-description": "Tipləşdirilmiş JavaScript",
-      "node": "JavaScript, lakin Backend üçün",
-      "rxjs": "Reaktiv Kitabxana",
-      "education.bachelor": "Bakalavr dərəcəsi",
-      "education.master": "Magistr dərəcəsi",
-      "education.center": "Azərbaycan Texniki Universiteti",
-      "education.since": "-dən indiyə kimi",
-      "work.crinfotask.description": "Bank və digər maliyyə institutları üçün Avtomatlaşdırılmış Qiymətləndirmə və Qərar Sistemi",
-      "work.mvp.description": "İzləmə Sistemi",
-      "work.from": "dan",
-      "work.to": "a qədər",
-      "native": "doğma",
-      "advanced": "üstün",
-      "upper-intermediate": "orta səviyyədən yuxarı",
-      "intermediate": "orta səviyyə",
-      "pre-intermediate": "orta səviyyədən aşağı",
-      "beginner": "başlanğıc",
-      "rest-frameworks-description": "API qurmaq üçün Kitabxana/Framework",
-      "ssr-frameworks-description": "SSR Tətbiqlərini qurmaq üçün Framework",
-      "orm-description": "Verilənlər bazası/cədvəlləri manipulyasiya etmək üçün kitabxana",
-      "frontend-framework": "JavaScript Frontend Framework",
-      "ide": "İnteqrasiya edilmiş İnkişaf Mühiti",
-      "devops": "Mədəni fəlsəfələrin, təcrübələrin və vasitələrin birləşməsi",
-      "os": "Əməliyyat sistemləri",
-      "agile": "Layihə İdarəetmə və Proqram İnkişafı Alətləri",
-      "communication": "Həmkarlarla ünsiyyətdə istifadə üçün proqramlar",
-      "git": "Versiyaya Nəzarət Sistemi"
+    "name": {
+      "az": "Veyis",
+      "ru": "Вейс",
+      "en": "Veyis"
     },
-    "ru": {
-      "name": "Вейс",
-      "surname": "Алиев",
-      "description": "Разработчик программного обеспечения",
-      "city.baku": "Баку",
-      "country.azerbaijan": "Азербайджан",
-      "city.kharkiv": "Харкив",
-      "country.ukraine": "Украина",
-      "january": "Январь",
-      "february": "Февраль",
-      "march": "Март",
-      "april": "Апрель",
-      "may": "Май",
-      "june": "Июнь",
-      "july": "Июль",
-      "august": "Август",
-      "september": "Сентябрь",
-      "october": "Октябрь",
-      "november": "Ноябрь",
-      "december": "Декабрь",
-      "skills": "Навыки и умения",
-      "pr-description": "Язык программирования",
-      "ts-description": "Типизированный JavaScript",
-      "node": "JavaScript, но для бэкенда",
-      "rxjs": "Реактивная библиотека",
-      "education.bachelor": "Степень бакалавра",
-      "education.master": "Степень магистра",
-      "education.center": "Азербайджанский Технический Университет",
-      "education.since": "С",
-      "work.crinfotask.description": "Автоматизированная система оценки и принятия решений для банков и других финансовых учреждений",
-      "work.mvp.description": "Система слежения",
-      "work.from": "от",
-      "work.to": "к",
-      "native": "родной",
-      "advanced": "передовой",
-      "upper-intermediate": "выше среднего",
-      "intermediate": "средний",
-      "pre-intermediate": "ниже среднего",
-      "beginner": "новичок",
-      "rest-frameworks-description": "Библиотека/фреймворк для создания API",
-      "ssr-frameworks-description": "Фреймворк для создания приложений SSR",
-      "orm-description": "Библиотека для работы с базой данных/таблицами",
-      "frontend-framework": "Фреймворк внешнего интерфейса JavaScript",
-      "ide": "Интегрированная среда разработки",
-      "devops": "Сочетание культурных философий, практик и инструментов",
-      "os": "Операционные системы",
-      "agile": "Инструменты управления проектами и разработки программного обеспечения",
-      "communication": "Приложения для использования в общении с коллегами",
-      "git": "Система контроля версий"
+    "surname": {
+      "az": "Əliyev",
+      "ru": "Алиев",
+      "en": "Aliyev"
     },
-    "en": {
-      "name": "Veyis",
-      "surname": "Aliyev",
-      "description": "Software Developer",
-      "january": "January",
-      "february": "February",
-      "march": "March",
-      "april": "April",
-      "may": "May",
-      "june": "June",
-      "july": "July",
-      "august": "August",
-      "september": "September",
-      "october": "October",
-      "november": "November",
-      "december": "December",
-      "city.baku": "Baku",
-      "country.azerbaijan": "Azerbaijan",
-      "city.kharkiv": "Kharkiv",
-      "country.ukraine": "Ukraine",
-      "skills": "Skills",
-      "pr-description": "A Programming Language",
-      "ts-description": "Typed JavaScript",
-      "node": "JavaScript but for Backend",
-      "rxjs": "A Reactive Library",
-      "education.bachelor": "Bachelor Degree",
-      "education.master": "Master Degree",
-      "education.center": "Azerbaijan Technical University",
-      "education.since": "Since",
-      "work.crinfotask.description": "Automated Scoring and Decision System for bank and other financial institutions",
-      "work.mvp.description": "Tracking System",
-      "work.from": "from",
-      "work.to": "to",
-      "native": "native",
-      "advanced": "advanced",
-      "upper-intermediate": "upper intermediate",
-      "intermediate": "intermediate",
-      "pre-intermediate": "pre intermediate",
-      "beginner": "beginner",
-      "rest-frameworks-description": "A Library/Framework for building API",
-      "ssr-frameworks-description": "A Framework for building SSR Applications",
-      "orm-description": "A Library for manipulate Database/Tables",
-      "frontend-framework": "A JavaScript Frontend Framework",
-      "ide": "Integrated Development Environment",
-      "devops": "Combination of cultural philosophies, practices, and tools",
-      "os": "Operating Systems",
-      "agile": "Project Management and Software Development Tools",
-      "communication": "Apps for usage in Communication with co-workers",
-      "git": "Version Control System"
+    "description": {
+      "az": "Proqram Tərtibatçı",
+      "ru": "Разработчик программного обеспечения",
+      "en": "Software Developer"
+    },
+    "city.baku": {
+      "az": "Bakı",
+      "ru": "Баку",
+      "en": "Baku"
+    },
+    "country.azerbaijan": {
+      "az": "Azərbaycan",
+      "ru": "Азербайджан",
+      "en": "Azerbaijan"
+    },
+    "city.kharkiv": {
+      "az": "Xarkov",
+      "ru": "Харкив",
+      "en": "Kharkiv"
+    },
+    "country.ukraine": {
+      "az": "Ukrayna",
+      "ru": "Украина",
+      "en": "Ukraine"
+    },
+    "january": {
+      "az": "Yanvar",
+      "ru": "Январь",
+      "en": "January"
+    },
+    "february": {
+      "az": "Fevral",
+      "ru": "Февраль",
+      "en": "February"
+    },
+    "march": {
+      "az": "Mart",
+      "ru": "Март",
+      "en": "March"
+    },
+    "april": {
+      "az": "Aprel",
+      "ru": "Апрель",
+      "en": "April"
+    },
+    "may": {
+      "az": "May",
+      "ru": "Май",
+      "en": "May"
+    },
+    "june": {
+      "az": "İyun",
+      "ru": "Июнь",
+      "en": "June"
+    },
+    "july": {
+      "az": "İyul",
+      "ru": "Июль",
+      "en": "July"
+    },
+    "august": {
+      "az": "Avqust",
+      "ru": "Август",
+      "en": "August"
+    },
+    "september": {
+      "az": "Sentyabr",
+      "ru": "Сентябрь",
+      "en": "September"
+    },
+    "october": {
+      "az": "Oktyabr",
+      "ru": "Октябрь",
+      "en": "October"
+    },
+    "november": {
+      "az": "Noyabr",
+      "ru": "Ноябрь",
+      "en": "November"
+    },
+    "december": {
+      "az": "Dekabr",
+      "ru": "Декабрь",
+      "en": "December"
+    },
+    "skills": {
+      "az": "Bacarıqlar",
+      "ru": "Навыки и умения",
+      "en": "Skills"
+    },
+    "pr-description": {
+      "az": "Proqramlaşdırma dili",
+      "ru": "Язык программирования",
+      "en": "A Programming Language"
+    },
+    "ts-description": {
+      "az": "Tipləşdirilmiş JavaScript",
+      "ru": "Типизированный JavaScript",
+      "en": "Typed JavaScript"
+    },
+    "node": {
+      "az": "JavaScript, lakin Backend üçün",
+      "ru": "JavaScript, но для бэкенда",
+      "en": "JavaScript but for Backend"
+    },
+    "rxjs": {
+      "az": "Reaktiv Kitabxana",
+      "ru": "Реактивная библиотека",
+      "en": "A Reactive Library"
+    },
+    "frontend-framework-state-managements": {
+      "az": "State İdarəetmə Kitabxanaları",
+      "ru": "Библиотеки управлением стейта",
+      "en": "State Management Libraries"
+    },
+    "frontend-css": {
+      "az": "CSS / Preprosessorlar",
+      "ru": "CSS / Препроцессоры",
+      "en": "CSS / Preprocessors"
+    },
+    "frontend-css-frameworks": {
+      "az": "Frontend Css Framework",
+      "ru": "Css-фреймворки для внешнего интерфейса",
+      "en": "Frontend Css Frameworks"
+    },
+    "education.bachelor": {
+      "az": "Bakalavr dərəcəsi",
+      "ru": "Степень бакалавра",
+      "en": "Bachelor Degree"
+    },
+    "education.master": {
+      "az": "Magistr dərəcəsi",
+      "ru": "Степень магистра",
+      "en": "Master Degree"
+    },
+    "education.center": {
+      "az": "Azərbaycan Texniki Universiteti",
+      "ru": "Азербайджанский Технический Университет",
+      "en": "Azerbaijan Technical University"
+    },
+    "education.since": {
+      "az": "-dən indiyə kimi",
+      "ru": "С",
+      "en": "Since"
+    },
+    "work.crinfotask.description": {
+      "az": "Bank və digər maliyyə institutları üçün Avtomatlaşdırılmış Qiymətləndirmə və Qərar Sistemi",
+      "ru": "Автоматизированная система оценки и принятия решений для банков и других финансовых учреждений",
+      "en": "Automated Scoring and Decision System for bank and other financial institutions"
+    },
+    "work.mvp.description": {
+      "az": "İzləmə Sistemi",
+      "ru": "Система слежения",
+      "en": "Tracking System"
+    },
+    "work.from": {
+      "az": "dan",
+      "ru": "от",
+      "en": "from"
+    },
+    "work.to": {
+      "az": "a qədər",
+      "ru": "к",
+      "en": "to"
+    },
+    "native": {
+      "az": "doğma",
+      "ru": "родной",
+      "en": "native"
+    },
+    "advanced": {
+      "az": "üstün",
+      "ru": "передовой",
+      "en": "advanced"
+    },
+    "upper-intermediate": {
+      "az": "orta səviyyədən yuxarı",
+      "ru": "выше среднего",
+      "en": "upper intermediate"
+    },
+    "intermediate": {
+      "az": "orta səviyyə",
+      "ru": "средний",
+      "en": "intermediate"
+    },
+    "pre-intermediate": {
+      "az": "orta səviyyədən aşağı",
+      "ru": "ниже среднего",
+      "en": "pre intermediate"
+    },
+    "beginner": {
+      "az": "başlanğıc",
+      "ru": "новичок",
+      "en": "beginner"
+    },
+    "rest-frameworks-description": {
+      "az": "API qurmaq üçün Kitabxana/Framework",
+      "ru": "Библиотека/фреймворк для создания API",
+      "en": "A Library/Framework for building API"
+    },
+    "ssr-frameworks-description": {
+      "az": "SSR Tətbiqlərini qurmaq üçün Framework",
+      "ru": "Фреймворк для создания приложений SSR",
+      "en": "A Framework for building SSR Applications"
+    },
+    "orm-description": {
+      "az": "Verilənlər bazası/cədvəlləri manipulyasiya etmək üçün kitabxana",
+      "ru": "Библиотека для работы с базой данных/таблицами",
+      "en": "A Library for manipulate Database/Tables"
+    },
+    "frontend-framework": {
+      "az": "JavaScript Frontend Framework",
+      "ru": "Фреймворк внешнего интерфейса JavaScript",
+      "en": "A JavaScript Frontend Framework"
+    },
+    "ide": {
+      "az": "İnteqrasiya edilmiş İnkişaf Mühiti",
+      "ru": "Интегрированная среда разработки",
+      "en": "Integrated Development Environment"
+    },
+    "devops": {
+      "az": "Mədəni fəlsəfələrin, təcrübələrin və vasitələrin birləşməsi",
+      "ru": "Сочетание культурных философий, практик и инструментов",
+      "en": "Combination of cultural philosophies, practices, and tools"
+    },
+    "os": {
+      "az": "Əməliyyat sistemləri",
+      "ru": "Операционные системы",
+      "en": "Operating Systems"
+    },
+    "agile": {
+      "az": "Layihə İdarəetmə və Proqram İnkişafı Alətləri",
+      "ru": "Инструменты управления проектами и разработки программного обеспечения",
+      "en": "Project Management and Software Development Tools"
+    },
+    "communication": {
+      "az": "Həmkarlarla ünsiyyətdə istifadə üçün proqramlar",
+      "ru": "Приложения для использования в общении с коллегами",
+      "en": "Apps for usage in Communication with co-workers"
+    },
+    "git": {
+      "az": "Versiyaya Nəzarət Sistemi",
+      "ru": "Система контроля версий",
+      "en": "Version Control System"
     }
   }
 }
