@@ -100,7 +100,6 @@ export const externalUrls = {
 };
 
 export const projects = [
-  { name: "App Generator", repo: "app-generator" },
   { name: "Util scripts", repo: "utils" },
   { name: "My Portfolio", repo: "mdreal32.github.io" }
 ];
