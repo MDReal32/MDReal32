@@ -7,15 +7,15 @@ My name is Veys. I'm a Software Developer.
 ## Frontend Skills
 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  - [ES6+](https://www.w3schools.com/js/js_es6.asp)
-  - [TypeScript](https://www.typescriptlang.org/)
-  - [Frameworks](https://en.wikipedia.org/wiki/JavaScript_framework)
-    - [React](https://reactjs.org/)
-    - [Vue](https://vuejs.org/)
-  - [Bundlers](https://en.wikipedia.org/wiki/Bundler_(software))
-    - [Webpack](https://webpack.js.org/)
-    - [ViteJS](https://vitejs.dev/)
-    - [Rollup](https://rollupjs.org/)
+- [ES6+](https://www.w3schools.com/js/js_es6.asp)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Frameworks](https://en.wikipedia.org/wiki/JavaScript_framework)
+  - [React](https://reactjs.org/)
+  - [Vue](https://vuejs.org/)
+- [Bundlers](https://en.wikipedia.org/wiki/Bundler_(software))
+  - [Webpack](https://webpack.js.org/)
+  - [ViteJS](https://vitejs.dev/)
+  - [Rollup](https://rollupjs.org/)
 
 
 ## Backend Skills
