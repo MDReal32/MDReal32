@@ -56,17 +56,21 @@ solutions.
 
 ## Working on
 
-<picture>
-  <source
-    srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MDReal32&repo=fluxora&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MDReal32&repo=fluxora"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MDReal32&repo=fluxora&theme=dark" alt="Fluxora" />
-</picture>
+<p>
+  <a href="https://github.com/MDReal32/fluxora">
+    <picture>
+      <source
+        srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MDReal32&repo=fluxora&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MDReal32&repo=fluxora"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MDReal32&repo=fluxora&theme=dark" alt="Fluxora" />
+    </picture>
+  </a>
+</p>
 
 ## 🌍 Languages
 
