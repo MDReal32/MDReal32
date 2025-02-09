@@ -28,10 +28,8 @@ solutions.
 ### 📶 &nbsp;GitHub Statistics
 
 <p>
-  <a href="https://github.com/MDReal32" style="display:flex; justify-content:space-between;">
-    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MDReal32&show_icons=true&theme=algolia&include_all_commits=true" alt="" />
-    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MDReal32&layout=compact&langs_count=8&theme=algolia"  alt="" />
-  </a>
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MDReal32&show_icons=true&theme=algolia&include_all_commits=true" alt="" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MDReal32&layout=compact&langs_count=8&theme=algolia"  alt="" />
 </p>
 
 ---
