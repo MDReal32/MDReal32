@@ -1,100 +1,58 @@
-# Hi everyone <img src="https://raw.githubusercontent.com/MDReal32/MDReal32/master/assets/hi.gif" alt="Hello :)" width="25" />
+# Hello, world! 🌍
 
-My name is Veys. I'm a Software Developer.
+I'm **Veys**, a passionate Software Developer dedicated to crafting innovative, high-performance applications with \*
+\*TypeScript, Node.js, and modern web technologies\*\*. I thrive on solving complex problems and building scalable
+solutions.
 
 ---
 
-## Frontend Skills
+## 👨🏻‍💻 About Me
 
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [ES6+](https://www.w3schools.com/js/js_es6.asp)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Frameworks](https://en.wikipedia.org/wiki/JavaScript_framework)
-  - [React](https://reactjs.org/)
-  - [Vue](https://vuejs.org/)
-- [Bundlers](https://en.wikipedia.org/wiki/Bundler_(software))
-  - [Webpack](https://webpack.js.org/)
-  - [ViteJS](https://vitejs.dev/)
-  - [Rollup](https://rollupjs.org/)
+🔭 I’m currently working on [Fluxora](https://github.com/MDReal32)  
+🌱 I’m currently learning DevOps, CS  
+💬 Ask me about JavaScript, DevOps
 
+---
 
-## Backend Skills
+## 🚀 Skills & Expertise
 
-- [NodeJS](https://nodejs.org/en/)
-  - [Express](https://expressjs.com/)
-  - [NestJS](https://nestjs.com/)
-- [RxJS](https://rxjs.dev/)
-- [Frameworks](https://en.wikipedia.org/wiki/Web_framework)
-  - [NextJS](https://nextjs.org/)
-  - [NuxtJS](https://nuxtjs.org/)
-- [ORM](https://en.wikipedia.org/wiki/Object-relational_mapping)
-  - [Sequelize](https://sequelize.org/)
-  - [TypeORM](https://typeorm.io/)
-  - [Prisma](https://www.prisma.io/)
+|                                                                                              🎨 Frontend Development                                                                                               |                                          🏗️ Backend Development                                          |                     ⚙️ DevOps & Infrastructure                      |       🛠️ Tools & Platforms       |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------:|:---------------------------------:|
+| <img src="./icons/javascript.svg" alt="JavaScript (ES6+)" /> <img src="./icons/typescript.svg" alt="Typescript" /> <img src="./icons/css.svg" alt="CSS" /> <img src="./icons/tailwindcss.svg" alt="Tailwindcss" /> |                             <img src="./icons/node.svg" alt="Node.JS" /> Rust                             | <img src="./icons/git.svg" alt="Git" /> (GitHub, GitLab, BitBucket) |   Linux (Ubuntu, Kali), Windows   |
+|                                        <img src="./icons/react.svg" alt="React" /> <img src="./icons/vue.svg" alt="Vue" /> <img src="./icons/angular.svg" alt="Angular" />                                         |                                      NestJS, RxJS, Next.js, Nuxt.js                                       |                       Jenkins, GitHub Actions                       | WebStorm, DataGrip, Rider, VSCode |
+|                                                                                               Webpack, Vite, Rollup                                                                                                | <img src="./icons/postgresql.svg" alt="PostgreSQL" /> MySQL, MongoDB, Sequelize, TypeORM, Prisma, Drizzle |                         Docker, Kubernetes                          |   Figma, Postman, JIRA, Trello    |
+|                                                                     UI/UX, Component-driven architecture, State management, Responsive design                                                                      |                                  API Design (REST, GraphQL, WebSockets)                                   |                    Ansible, Prometheus, Grafana                     |                ---                |
 
-## Computer Skills
+---
 
-- [OS](https://en.wikipedia.org/wiki/Operating_system)
-  - [Linux](https://en.wikipedia.org/wiki/Linux)
-    - [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_(operating_system))
-    - [Kali Linux](https://en.wikipedia.org/wiki/Kali_Linux)
-  - [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows)
-- [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)
-  - [WebStorm](https://www.jetbrains.com/webstorm/)
-  - [DataGrip](https://www.jetbrains.com/datagrip/)
-  - [Rider](https://www.jetbrains.com/rider/)
-  - [VSCode](https://code.visualstudio.com/)
-- [Figma](https://www.figma.com/)
-- [Postman](https://www.postman.com/)
+### 📶 &nbsp;GitHub Statistics
 
-## DevOps Skills
+<p>
+  <a href="https://github.com/MDReal32" style="display:flex; justify-content:space-between;">
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MDReal32&show_icons=true&theme=algolia&include_all_commits=true" alt="" />
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MDReal32&layout=compact&langs_count=8&theme=algolia"  alt="" />
+  </a>
+</p>
 
-- [Git](https://git-scm.com/)
-  - [GitHub](https://github.com)
-  - [GitLab](https://gitlab.com)
-  - [BitBucket](https://bitbucket.org)
-- [Docker](https://www.docker.com/)
-- [Kubernetes](https://kubernetes.io/)
-- [Jenkins](https://www.jenkins.io/)
-- [Ansible](https://www.ansible.com/)
+---
 
-## Soft Skills
+## 🌍 Languages
 
-- [JIRA](https://www.atlassian.com/software/jira)
-- [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming)
-  - [SOLID](https://en.wikipedia.org/wiki/SOLID)
-  - [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
-  - [KISS](https://en.wikipedia.org/wiki/KISS_principle)
-- [JIRA](https://www.atlassian.com/software/jira)
-  - [Trello](https://trello.com/)
-  - [JetBrains Space](https://www.jetbrains.com/space/)
-- [Communication](https://en.wikipedia.org/wiki/Communication)
-  - [Slack](https://slack.com/)
-  - [Zoom](https://zoom.us/)
-  - [Teams](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/group-chat-software)
-  - [Discord](https://discord.com/)
+- **English:** B2 - Professional working proficiency
+- **Russian:** B1 - Intermediate proficiency
+- **Azerbaijani:** Native
 
+---
 
-## Languages
+## 🎓 Education & Professional Journey
 
-- [English](https://en.wikipedia.org/wiki/English_language) - B2
-- [Russian](https://en.wikipedia.org/wiki/Russian_language) - B1
-- [Azerbaijani](https://en.wikipedia.org/wiki/Azerbaijani_language) - Native
+🔗 [Find my detailed education and work experience on LinkedIn](https://www.linkedin.com/in/MDReal32)
 
-## Education
+---
 
-- [AzTU](https://aztu.edu.az/) - Bachelor's degree, [Computer Science](https://en.wikipedia.org/wiki/Computer_science), 2017 - 2021
-- [AzTU](https://aztu.edu.az/) - Master's degree, [Computer Security](https://en.wikipedia.org/wiki/Computer_security), 2021 - 2023
+## 📬 Get in Touch
 
-## Work Experience
+- 📧 [Email](mailto:MDReal3200@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/MDReal32)
 
-- [Cybernet LLC](https://cybernet.az/) - Software Developer, 2022 July - Present
-- [AnisLand](https://www.linkedin.com/company/aniscoin/) - Startup - DevOps Engineer, Backend NodeJS Developer, 2022 April - 2022 December
-- [MVP Engine (JetBase.io)](https://jetbase.io) - Fullstack JavaScript Developer, 2021 October - 2022 February
-- Freelance - PHP Laravel Developer, 2020 January - 2021 October
-- [CrinfoTask LLC](https://crinfotask.az/) - Software Developer, 2019 September - 2021 October
-
-## Contact Me
-
-- [Email](mailto:mdrealiyev00@gmail.com)
-- [Actively LinkedIn](https://www.linkedin.com/in/mdrealiyev)
+---
