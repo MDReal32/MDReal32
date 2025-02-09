@@ -8,7 +8,6 @@ solutions.
 
 ## 👨🏻‍💻 About Me
 
-🔭 I’m currently working on [Fluxora](https://github.com/MDReal32)  
 🌱 I’m currently learning DevOps, CS  
 💬 Ask me about JavaScript, DevOps
 
@@ -25,14 +24,49 @@ solutions.
 
 ---
 
-### 📶 &nbsp;GitHub Statistics
+### 📶 GitHub Statistics
 
 <p>
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MDReal32&show_icons=true&theme=algolia&include_all_commits=true" alt="" />
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MDReal32&layout=compact&langs_count=8&theme=algolia"  alt="" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=MDReal32&show_icons=true&theme=dark&include_all_commits=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=MDReal32&show_icons=true&include_all_commits=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MDReal32&show_icons=true&theme=dark&include_all_commits=true" alt="My Github Stats" />
+  </picture>
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MDReal32&layout=compact&langs_count=8&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MDReal32&layout=compact&langs_count=8"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MDReal32&layout=compact&langs_count=8&theme=dark" alt="My Github Stats" />
+  </picture>
 </p>
 
 ---
+
+## Working on
+
+<picture>
+  <source
+    srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MDReal32&repo=fluxora&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MDReal32&repo=fluxora"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=MDReal32&repo=fluxora&theme=dark" alt="Fluxora" />
+</picture>
 
 ## 🌍 Languages
 
