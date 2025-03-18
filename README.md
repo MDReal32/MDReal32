@@ -1,7 +1,6 @@
 # Hello, world! 🌍
 
-I'm **Veys**, a passionate Software Developer dedicated to crafting innovative, high-performance applications with \*
-\*TypeScript, Node.js, and modern web technologies\*\*. I thrive on solving complex problems and building scalable
+I'm **Veys**, a passionate Software Developer dedicated to crafting innovative, high-performance applications with **TypeScript, Node.js, and modern web technologies**. I thrive on solving complex problems and building scalable
 solutions.
 
 ---
