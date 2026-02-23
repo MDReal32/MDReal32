@@ -1,58 +1,56 @@
 # Hello, world! 🌍
 
-Software engineer focused on APIs, SDK-style clients, and developer tooling.
-I build type-safe systems with TypeScript and Node.js and care about simple onboarding, clear contracts, and long-term maintainability.
+Software engineer focused on scalable UI architecture, API integration, and developer tooling.
+Builds type-safe systems in TypeScript across frontend and Node.js, with a strong focus on DX and maintainability.
 
 ---
 
 ## 👨🏻‍💻 About Me
 
-* Work across backend services and developer tooling
-* Design API-first systems and SDK patterns
-* Build CLI tools, generators, and shared templates
-* Focus on DX, type safety, and clean integration flows
-* Explore cross-runtime work with Rust and Node.js
+- I build with **TypeScript**, **Node.js**, and modern web technologies
+- Interested in **DevOps**, system design, and automation
+- I care about clean architecture, DX, and long-term maintainability
 
 ---
 
 ## 🚀 Skills & Expertise
 
-**Languages & Runtimes**
-TypeScript · Node.js · Rust (napi) · Java (JNI/GraalVM)
+**Frontend**
+React · TypeScript · Node.js · SSR / SSG
 
-**APIs & SDKs**
-REST · GraphQL · Authentication flows · Pagination · Error handling · Rate limits · Client design
+**Backend**
+Vue.js (2/3) · NestJS · REST APIs · WebSockets · GraphQL
 
-**Tooling & DX**
-CLI tools · Code generation · Monorepos · Nx · Vite/Rollup · Shared schemas · Versioned packages
-
-**Systems**
-NestJS · NATS · Microservices · Event-driven design · Contract-first APIs
-
-**Infrastructure**
-Docker · Kubernetes · CI/CD · GitHub Actions · Config management
+**Tooling & Infrastructure**
+Docker · Kubernetes · Ansible · Git · CI/CD · Code generation · CLI tooling
 
 ---
 
-## 🌐 Open Source
+## 🔧 Currently Working On
 
-**Velnora** — modular platform for developer tooling and multi-runtime applications
-[https://github.com/Velnora/velnora](https://github.com/Velnora/velnora)
+- **Velnora** — https://github.com/Velnora/velnora
 
-Focused on generators, CLI workflows, and typed configuration for faster project setup.
-
----
-
-## 🔧 Current Focus
-
-* Developer tooling and SDK patterns
-* Monorepo automation and release workflows
-* Cross-runtime integrations (Rust ↔ Node)
+- Full experience: https://mdreal.org/resume
 
 ---
 
-## 📬 Contact
+## 🌍 Languages
 
-Portfolio: [https://mdreal.org](https://mdreal.org)
-LinkedIn: [https://www.linkedin.com/in/mdrealiyev/](https://www.linkedin.com/in/mdrealiyev/)
-Email: [mdrealiyev00@gmail.com](mailto:mdrealiyev00@gmail.com)
+- **Azerbaijani:** Native
+- **Russian:** B2
+- **English:** B2
+
+---
+
+## 🎓 Education & Professional Journey
+
+- Resume: https://mdreal.org/resume
+- LinkedIn: https://www.linkedin.com/in/mdrealiyev/
+
+---
+
+## 📬 Get in Touch
+
+- Portfolio: https://mdreal.org
+- [Email](mailto:mdrealiyev00@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/mdrealiyev/)
