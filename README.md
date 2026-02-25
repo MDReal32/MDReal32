@@ -1,7 +1,7 @@
 # Hello, world! 🌍
 
-Software engineer focused on scalable UI architecture, API integration, and developer tooling.
-Builds type-safe systems in TypeScript across frontend and Node.js, with a strong focus on DX and maintainability.
+Fullstack software engineer focused on APIs, integration patterns, and developer tooling.
+Builds type-safe systems in TypeScript across client and server, with a focus on maintainability and clear contracts.
 
 ---
 
@@ -16,13 +16,13 @@ Builds type-safe systems in TypeScript across frontend and Node.js, with a stron
 ## 🚀 Skills & Expertise
 
 **Frontend**
-React · TypeScript · Node.js · SSR / SSG
+TypeScript · Node.js · React · API integration
 
 **Backend**
-Vue.js (2/3) · NestJS · REST APIs · WebSockets · GraphQL
+NestJS · REST APIs · GraphQL · WebSockets · SSR / SSG · Vue.js (2/3)
 
 **Tooling & Infrastructure**
-Docker · Kubernetes · Ansible · Git · CI/CD · Code generation · CLI tooling
+CLI tooling · Code generation · Docker · Kubernetes · Git · CI/CD · Ansible
 
 ---
 
