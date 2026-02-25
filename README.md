@@ -1,7 +1,6 @@
 # Hello, world! 🌍
 
-Fullstack software engineer focused on APIs, integration patterns, and developer tooling.
-Builds type-safe systems in TypeScript across client and server, with a focus on maintainability and clear contracts.
+Fullstack software engineer with experience in developer tooling and API integration. Focus on SDK-style client design, shared patterns, and modular systems that reduce setup time and keep projects consistent. Worked with authentication, pagination, error handling, and versioned services. Care about clear contracts, stable architecture, and simple onboarding.
 
 ---
 
@@ -45,7 +44,7 @@ CLI tooling · Code generation · Docker · Kubernetes · Git · CI/CD · Ansibl
 ## 🎓 Education & Professional Journey
 
 - Resume: https://mdreal.org/resume
-- LinkedIn: https://www.linkedin.com/in/mdrealiyev/
+- LinkedIn: https://www.linkedin.com/in/mdrealiyev
 
 ---
 
@@ -53,4 +52,4 @@ CLI tooling · Code generation · Docker · Kubernetes · Git · CI/CD · Ansibl
 
 - Portfolio: https://mdreal.org
 - [Email](mailto:mdrealiyev00@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/mdrealiyev/)
+- [LinkedIn](https://www.linkedin.com/in/mdrealiyev)
