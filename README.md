@@ -52,4 +52,7 @@ CLI tooling · Code generation · Docker · Kubernetes · Git · CI/CD · Ansibl
 
 - Portfolio: https://mdreal.org
 - [Email](mailto:mdrealiyev00@gmail.com)
+- [Website](https://mdreal.org)
 - [LinkedIn](https://www.linkedin.com/in/mdrealiyev)
+- [GitHub](https://github.com/MDReal32)
+- [Blog](https://velnora.notion.site)
