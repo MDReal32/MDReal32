@@ -1,4 +1,4 @@
-<div style="text-align: center">
+<div align="center">
 
 # Hello, world! 🌍
 
@@ -60,7 +60,7 @@ Fullstack software engineer with experience in developer tooling and API integra
 
 ## 📬 Get in Touch
 
-<div style="text-align: center">
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mdreal.org) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdrealiyev00@gmail.com) [![Website](https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mdreal.org) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdrealiyev) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MDReal32) [![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=notion&logoColor=white)](https://velnora.notion.site)
 
@@ -68,7 +68,7 @@ Fullstack software engineer with experience in developer tooling and API integra
 
 ---
 
-<div style="text-align: center">
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MDReal32&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MDReal32&layout=compact&theme=tokyonight&hide_border=true)
