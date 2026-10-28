@@ -39,7 +39,7 @@ Fullstack software engineer with experience in developer tooling and API integra
 
 ## 🔧 Currently Working On
 
-[![Velnora](https://img.shields.io/badge/Velnora-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Velnora/velnora)
+[![Velnora](https://img.shields.io/badge/Velnora-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Velnora/velnora) [![NestBridge](https://img.shields.io/badge/NestBridge-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MDReal32/nestbridge) [![mcpkit](https://img.shields.io/badge/mcpkit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MDReal32/mcpkit)
 
 [![Full experience](https://img.shields.io/badge/Full_experience-2563EB?style=for-the-badge)](https://mdreal.org/resume)
 
